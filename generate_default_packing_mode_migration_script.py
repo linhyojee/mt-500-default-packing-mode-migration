@@ -23,8 +23,8 @@ def generate_psql_script(packing_mode_dict):
 
     for packing_mode, template_names in packing_mode_dict.items():
         names = convert_set_to_psql_any_array(template_names)
-        w = "WHEN bt.name = {} THEN '\"{}\"'::jsonb\n\n".format(names, packing_mode)
-        when_clauses += w
+        w = "WHEN bt.name = {} THEN '\"{}\"'::jsonb".format(names, packing_mode)
+        when_clauses += padded_when_clause(w)
 
     path = "'{order_packing_mode,default_value}'"
 
@@ -33,11 +33,11 @@ def generate_psql_script(packing_mode_dict):
         booking_templates bt
     SET
 	fields_schema = jsonb_set(
-	    fields_schema,
+            fields_schema,
             {},
 	    CASE
-                {}
-	    END,
+            {}
+            END,
 	    FALSE
 	)
     WHERE
@@ -48,6 +48,9 @@ def generate_psql_script(packing_mode_dict):
 def convert_set_to_psql_any_array(s):
     tmp = ','.join([repr(x) for x in s])
     return "ANY(ARRAY[{}])".format(tmp)
+
+def padded_when_clause(when_clause):
+    return '\n                ' + when_clause + '\n';
 
 if __name__ == '__main__':
     packing_mode_dict = read_csv_file('default_packing_mode.csv')
