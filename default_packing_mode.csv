@@ -1,0 +1,1916 @@
+﻿template_id;name;slug;packing_mode_selected;Packing mode default;Count
+4521;single_task;scharff;TRUE;LTL;768
+4635;single_task;ups;TRUE;LTL;768
+4650;single_task;tester-2;TRUE;LTL;768
+4019;single_task;tester;TRUE;LTL;768
+4654;single_task;pumasera;TRUE;LTL;768
+4956;single_task;aeroline-services;TRUE;LTL;768
+5018;single_task;yojsgp;TRUE;LTL;768
+4586;single_task;yojmel;TRUE;LTL;768
+4147;single_task;yojsyd;TRUE;LTL;768
+4933;single_task;yojmys;TRUE;LTL;768
+4274;single_task;yojidn;TRUE;LTL;768
+4575;single_task;ed;TRUE;LTL;768
+4633;single_task;happybunch;TRUE;LTL;768
+4629;single_task;mydelivery2u;TRUE;LTL;768
+4210;single_task;s&c-transport;TRUE;LTL;768
+4203;single_task;anu-aus;TRUE;LTL;768
+4617;single_task;harry-co;TRUE;LTL;768
+4227;single_task;andy-co;TRUE;LTL;768
+4588;single_task;aus-partner;TRUE;LTL;768
+4400;single_task;anu-sgp;TRUE;LTL;768
+4656;single_task;cfsmel;TRUE;LTL;768
+4557;single_task;goldstar-transport;TRUE;LTL;768
+4559;single_task;yojee-downstream;TRUE;LTL;768
+4657;single_task;anu-thai;TRUE;LTL;768
+4519;single_task;duijnunder;TRUE;LTL;768
+4523;single_task;carrier-next-day;TRUE;LTL;768
+4948;single_task;carrier-cold-chain;TRUE;LTL;768
+4394;single_task;yojee-sandbox;TRUE;LTL;768
+4525;single_task;rotterdam;TRUE;LTL;768
+3998;single_task;singapore;TRUE;LTL;768
+4235;single_task;company-x;TRUE;LTL;768
+4129;single_task;lego;TRUE;LTL;768
+4512;single_task;yojmy;TRUE;LTL;768
+4531;single_task;carrier-same-day;TRUE;LTL;768
+4954;single_task;carrier-express;TRUE;LTL;768
+4977;single_task;teknology-consult;TRUE;LTL;768
+4594;single_task;accenture;TRUE;LTL;768
+4171;single_task;stevenson;TRUE;LTL;768
+4414;single_task;geodis;TRUE;LTL;768
+4545;single_task;scottlovattransport;TRUE;LTL;768
+4595;single_task;tbsh;TRUE;LTL;768
+4234;single_task;carrier-2-day;TRUE;LTL;768
+4619;single_task;alfiantest;TRUE;LTL;768
+4624;single_task;oliverholdings;TRUE;LTL;768
+4627;single_task;hanh27jul;TRUE;LTL;768
+4238;single_task;yojeehappy;TRUE;LTL;768
+4197;single_task;worlddomination;TRUE;LTL;768
+4989;single_task;karolis;TRUE;LTL;768
+4587;single_task;hanh29jul;TRUE;LTL;768
+4576;single_task;coreylogistics;TRUE;LTL;768
+4596;single_task;yojeesingapore;TRUE;LTL;768
+4628;single_task;gobigasia;TRUE;LTL;768
+4166;single_task;alfiantesttest;TRUE;LTL;768
+4217;single_task;sidtest;TRUE;LTL;768
+4663;single_task;bus-service;TRUE;LTL;768
+4642;single_task;test_gunne;TRUE;LTL;768
+4645;single_task;test2;TRUE;LTL;768
+4651;single_task;tes3;TRUE;LTL;768
+4658;single_task;test6;TRUE;LTL;768
+4662;single_task;tes36;TRUE;LTL;768
+4241;single_task;test7;TRUE;LTL;768
+4255;single_task;test8;TRUE;LTL;768
+4202;single_task;xpress2ucouriers;TRUE;LTL;768
+4577;single_task;acmeco;TRUE;LTL;768
+4625;single_task;niki_test_selfsignup;TRUE;LTL;768
+4526;single_task;aditya-yojee-test;TRUE;LTL;768
+4990;single_task;hanh16aug;TRUE;LTL;768
+4634;single_task;directcouriers;TRUE;LTL;768
+4276;single_task;testat;TRUE;LTL;768
+4643;single_task;testat2;TRUE;LTL;768
+4646;single_task;testat3;TRUE;LTL;768
+4652;single_task;testat5;TRUE;LTL;768
+4218;single_task;testat4;TRUE;LTL;768
+4581;single_task;test9;TRUE;LTL;768
+4125;single_task;frontfoot;TRUE;LTL;768
+4518;single_task;timebox;TRUE;LTL;768
+4647;single_task;fire222;TRUE;LTL;768
+4653;single_task;fire1abvb;TRUE;LTL;768
+4659;single_task;testat3333;TRUE;LTL;768
+4621;single_task;mclean&co;TRUE;LTL;768
+4626;single_task;topguns;TRUE;LTL;768
+4630;single_task;gkrtransport;TRUE;LTL;768
+5020;single_task;gigashipping;TRUE;LTL;768
+4516;single_task;smokeybayseafoodltd;TRUE;LTL;768
+4200;single_task;test_company_update;TRUE;LTL;768
+4008;single_task;hanh02sep;TRUE;LTL;768
+4939;single_task;liberatech;TRUE;LTL;768
+4944;single_task;southeastcouriers;TRUE;LTL;768
+4949;single_task;sglh;TRUE;LTL;768
+4515;single_task;testcreatingslug;TRUE;LTL;768
+4582;single_task;testcreatingslug1;TRUE;LTL;768
+4622;single_task;-testslugwithspecialchars--$-^--()abc-;TRUE;LTL;768
+4623;single_task;testcompanywithspecial-chars33;TRUE;LTL;768
+4113;single_task;yojeesales;TRUE;LTL;768
+4118;single_task;testingsaleissue;TRUE;LTL;768
+4001;single_task;comanpanynamewithyojee;TRUE;LTL;768
+4169;single_task;lora-anne-ingram1testing;TRUE;LTL;768
+4194;single_task;fireonfiretesting;TRUE;LTL;768
+4206;single_task;marketingissue;TRUE;LTL;768
+4589;single_task;testsamephonenumber;TRUE;LTL;768
+4220;single_task;testcuong19sep;TRUE;LTL;768
+4632;single_task;pengwin.social;TRUE;LTL;768
+4661;single_task;staff24;TRUE;LTL;768
+4665;single_task;testino;TRUE;LTL;768
+4950;single_task;justdoit;TRUE;LTL;768
+4943;single_task;gloomlogistics;TRUE;LTL;768
+4513;single_task;pt-priangancitylines;TRUE;LTL;768
+4159;single_task;pt-damaianugerahlestari;TRUE;LTL;768
+4945;single_task;pt-farisaglobaltouristama;TRUE;LTL;768
+4940;single_task;pt-mitrapesonatravel;TRUE;LTL;768
+4937;single_task;nil;TRUE;LTL;768
+4573;single_task;pjsgourmetexpress-1;TRUE;LTL;768
+4952;single_task;dianatravel;TRUE;LTL;768
+4946;single_task;jinggatravel;TRUE;LTL;768
+4938;single_task;melatitravel;TRUE;LTL;768
+4942;single_task;testcompany17oct2019;TRUE;LTL;768
+4273;single_task;testingcompany2;TRUE;LTL;768
+4253;single_task;kg_test;TRUE;LTL;768
+4141;single_task;blossom;TRUE;LTL;768
+5021;single_task;kg_test_2;TRUE;LTL;768
+4560;single_task;wahyoo;TRUE;LTL;768
+4936;single_task;dynamic;TRUE;LTL;768
+4957;single_task;personal;TRUE;LTL;768
+4953;single_task;kswt;TRUE;LTL;768
+4529;single_task;rajanexpress;TRUE;LTL;768
+4249;single_task;hockcheong;TRUE;LTL;768
+4146;single_task;csr;TRUE;LTL;768
+4579;single_task;mahaviewservices;TRUE;LTL;768
+4244;single_task;meitechnologypteltd;TRUE;LTL;768
+4631;single_task;bnt-bulk-haulage;TRUE;LTL;768
+3996;single_task;maxis;TRUE;LTL;768
+4267;single_task;mesjadilogisticssdnbhd;TRUE;LTL;768
+4073;single_task;stantalogisticssdnbhd;TRUE;LTL;768
+4527;single_task;kudratmaritimemalaysia;TRUE;LTL;768
+4259;single_task;mdrive;TRUE;LTL;768
+4537;single_task;fetracore;TRUE;LTL;768
+4245;single_task;jobtagsdn;TRUE;LTL;768
+4985;single_task;bizzylogistics;TRUE;LTL;768
+4268;single_task;betaangkut;TRUE;LTL;768
+4260;single_task;joxu;TRUE;LTL;768
+4151;single_task;nus;TRUE;LTL;768
+4564;single_task;makesend;TRUE;LTL;768
+4585;single_task;simonclark;TRUE;LTL;768
+4963;single_task;testcorp;TRUE;LTL;768
+4170;single_task;soilsaintsoils;TRUE;LTL;768
+4237;single_task;last;TRUE;LTL;768
+4955;single_task;hajtrading-transportationsdnbhd;TRUE;LTL;768
+4979;single_task;tsssensitivefreight;TRUE;LTL;768
+4140;single_task;eblack-white;TRUE;LTL;768
+4155;single_task;meta;TRUE;LTL;768
+4143;single_task;tridentplastics;TRUE;LTL;768
+4160;single_task;brinksglobalservices;TRUE;LTL;768
+4138;single_task;qilmily;TRUE;LTL;768
+4145;single_task;perfectroomssdnbhd;TRUE;LTL;768
+4150;single_task;mraxxtrading;TRUE;LTL;768
+4124;single_task;jajal;TRUE;LTL;768
+4522;single_task;indotrans;TRUE;LTL;768
+4165;single_task;inspectorio;TRUE;LTL;768
+4246;single_task;ancofreight;TRUE;LTL;768
+4122;single_task;jantzen;TRUE;LTL;768
+4231;single_task;asdsa;TRUE;LTL;768
+4250;single_task;fernsnpetals;TRUE;LTL;768
+4144;single_task;indotranspteltd;TRUE;LTL;768
+4156;single_task;agereaccounting-advisorypteltd;TRUE;LTL;768
+4563;single_task;p-gtrial;TRUE;LTL;768
+4599;single_task;csxsolutionssdnbhd;TRUE;LTL;768
+4174;single_task;monlogustic;TRUE;LTL;768
+4198;single_task;mcdonalds;TRUE;LTL;768
+4007;single_task;feeyond;TRUE;LTL;768
+4994;single_task;vescomalaysia;TRUE;LTL;768
+4999;single_task;beancargo;TRUE;LTL;768
+5005;single_task;moochi;TRUE;LTL;768
+4215;single_task;n-a;TRUE;LTL;768
+4221;single_task;harimaya-sonpteltd;TRUE;LTL;768
+4131;single_task;appliedinstallations;TRUE;LTL;768
+4225;single_task;puhuainternationalpteltd;TRUE;LTL;768
+4239;single_task;kaer;TRUE;LTL;768
+4243;single_task;imec;TRUE;LTL;768
+4115;single_task;unussolutions;TRUE;LTL;768
+4620;single_task;beanage;TRUE;LTL;768
+4121;single_task;michellengaibeeyea;TRUE;LTL;768
+4142;single_task;prospectlogisticspteltd;TRUE;LTL;768
+4158;single_task;goodwillentertainmentholdingpteltd;TRUE;LTL;768
+4261;single_task;jasmine;TRUE;LTL;768
+4272;single_task;testemail;TRUE;LTL;768
+4152;single_task;swiftdelivery;TRUE;LTL;768
+4286;single_task;usahajayamurnitrading;TRUE;LTL;768
+4978;single_task;unijaya;TRUE;LTL;768
+4980;single_task;aaaadvancedtrussesandwindows;TRUE;LTL;768
+4006;single_task;cirtrans;TRUE;LTL;768
+4190;single_task;pumpyjackson;TRUE;LTL;768
+4199;single_task;fepl;TRUE;LTL;768
+4216;single_task;singaporepolytechnic;TRUE;LTL;768
+4226;single_task;outlook;TRUE;LTL;768
+4232;single_task;winspec;TRUE;LTL;768
+4541;single_task;minmax;TRUE;LTL;768
+4570;single_task;minmin;TRUE;LTL;768
+4580;single_task;jamesco;TRUE;LTL;768
+4584;single_task;beann;TRUE;LTL;768
+4110;single_task;gracekelly;TRUE;LTL;768
+4139;single_task;geethablitz06feb_01;TRUE;LTL;768
+4130;single_task;geetha06feb_02blitz;TRUE;LTL;768
+4536;single_task;joshualewis;TRUE;LTL;768
+4555;single_task;lennonprice;TRUE;LTL;768
+4572;single_task;brianwilliams;TRUE;LTL;768
+4574;single_task;eirawright;TRUE;LTL;768
+4578;single_task;graciehawkins;TRUE;LTL;768
+4109;single_task;nhile;TRUE;LTL;768
+4133;single_task;testblitzaditya;TRUE;LTL;768
+4082;single_task;cruzwalsh;TRUE;LTL;768
+4149;single_task;alizon;TRUE;LTL;768
+4161;single_task;judebarnes;TRUE;LTL;768
+4164;single_task;testnhicompany;TRUE;LTL;768
+4565;single_task;visiintisinergis;TRUE;LTL;768
+5014;single_task;unsircle;TRUE;LTL;768
+4209;single_task;floradisestudio;TRUE;LTL;768
+4591;single_task;prosprconsultingpteltd;TRUE;LTL;768
+4982;single_task;tujuhexpress;TRUE;LTL;768
+4251;single_task;coreytester;TRUE;LTL;768
+4265;single_task;space-rentalpteltd;TRUE;LTL;768
+4269;single_task;netsensebusinesssolutions;TRUE;LTL;768
+4277;single_task;noro;TRUE;LTL;768
+4279;single_task;jamie;TRUE;LTL;768
+4002;single_task;nick-sdelivery;TRUE;LTL;768
+4604;single_task;testcompany;TRUE;LTL;768
+4609;single_task;testusercompany;TRUE;LTL;768
+5043;single_task;beannab;TRUE;LTL;768
+4995;single_task;harrisonbarnes;TRUE;LTL;768
+5000;single_task;rashadmadden;TRUE;LTL;768
+5006;single_task;james123;TRUE;LTL;768
+5009;single_task;james123conmeo;TRUE;LTL;768
+4211;single_task;jamesmino;TRUE;LTL;768
+4543;single_task;jamesmino2;TRUE;LTL;768
+4566;single_task;hazgotit;TRUE;LTL;768
+4116;single_task;testblitzgeetha20feb;TRUE;LTL;768
+4117;single_task;resolutionx;TRUE;LTL;768
+4128;single_task;pigeonsingapore;TRUE;LTL;768
+4148;single_task;mymovers;TRUE;LTL;768
+4154;single_task;zelsttrucks;TRUE;LTL;768
+4236;single_task;testcompanygeetha;TRUE;LTL;768
+4247;single_task;beanbean;TRUE;LTL;768
+4252;single_task;david-scouriers;TRUE;LTL;768
+4270;single_task;sunshinecoastwatercartage;TRUE;LTL;768
+4003;single_task;eurochoiceptyltd;TRUE;LTL;768
+4605;single_task;cwtrucking;TRUE;LTL;768
+4610;single_task;yumborama;TRUE;LTL;768
+4986;single_task;everythingpets;TRUE;LTL;768
+4996;single_task;world4pets;TRUE;LTL;768
+5024;single_task;pairedup;TRUE;LTL;768
+4602;single_task;trimasindo-global-perkasa;TRUE;LTL;768
+5032;single_task;geetha-test-trial-company;TRUE;LTL;768
+4552;single_task;3tierfoods;TRUE;LTL;768
+4583;single_task;achesonssmsf;TRUE;LTL;768
+4172;single_task;hollashop;TRUE;LTL;768
+4248;single_task;wedelysarl;TRUE;LTL;768
+4275;single_task;nextlink;TRUE;LTL;768
+4284;single_task;yojeesg;TRUE;LTL;768
+4287;single_task;jcexpress;TRUE;LTL;768
+3997;single_task;no7-jalancu1;TRUE;LTL;768
+4004;single_task;nikzz;TRUE;LTL;768
+4598;single_task;roadrebelpteltd;TRUE;LTL;768
+4606;single_task;totalcare;TRUE;LTL;768
+4611;single_task;srijan;TRUE;LTL;768
+4987;single_task;nikzz2;TRUE;LTL;768
+4993;single_task;jonathancollins;TRUE;LTL;768
+4997;single_task;jesseread;TRUE;LTL;768
+5001;single_task;jesscollins;TRUE;LTL;768
+5007;single_task;nikzz3;TRUE;LTL;768
+5008;single_task;harleywallace;TRUE;LTL;768
+5011;single_task;coopermitchell;TRUE;LTL;768
+5015;single_task;eriknicholson;TRUE;LTL;768
+5019;single_task;banister-stransport;TRUE;LTL;768
+4535;single_task;patti-splace;TRUE;LTL;768
+5028;single_task;eduardbarnes;TRUE;LTL;768
+5033;single_task;nikzz4;TRUE;LTL;768
+3504;single_task;olivertestmarch2020;TRUE;LTL;768
+4383;single_task;techhausid;TRUE;LTL;768
+4388;single_task;ljcexpress;TRUE;LTL;768
+4398;single_task;muko;TRUE;LTL;768
+4402;single_task;rslogisticscopteltd;TRUE;LTL;768
+4120;single_task;back2backfreight;TRUE;LTL;768
+4157;single_task;user;TRUE;LTL;768
+4230;single_task;test1903;TRUE;LTL;768
+4266;single_task;geetha19marchblitzlive;TRUE;LTL;768
+4271;single_task;geethablitz19march_02live;TRUE;LTL;768
+4278;single_task;actl;TRUE;LTL;768
+4283;single_task;transol;TRUE;LTL;768
+3999;single_task;eventhireservices;TRUE;LTL;768
+4005;single_task;agtrix;TRUE;LTL;768
+4600;single_task;covid19;TRUE;LTL;768
+4607;single_task;mathanatrading;TRUE;LTL;768
+4613;single_task;iptech;TRUE;LTL;768
+4991;single_task;flexion;TRUE;LTL;768
+4998;single_task;cambraycheese;TRUE;LTL;768
+5003;single_task;elwell;TRUE;LTL;768
+5025;single_task;abddddd;TRUE;LTL;768
+5029;single_task;congau134;TRUE;LTL;768
+5037;single_task;na;TRUE;LTL;768
+5040;single_task;drobo;TRUE;LTL;768
+3495;single_task;littlekid;TRUE;LTL;768
+3501;single_task;dandypartnership;TRUE;LTL;768
+3505;single_task;mofochili;TRUE;LTL;768
+3516;single_task;fruit2work;TRUE;LTL;768
+4384;single_task;hnjp;TRUE;LTL;768
+4417;single_task;thesubtleloveco;TRUE;LTL;768
+4422;single_task;planetrise;TRUE;LTL;768
+4947;single_task;jeremy;TRUE;LTL;768
+4959;single_task;oasisseafood-western;TRUE;LTL;768
+4127;single_task;rishu;TRUE;LTL;768
+4119;single_task;wlvisiondelightsdnbhd;TRUE;LTL;768
+4195;single_task;wc;TRUE;LTL;768
+4280;single_task;ebb-flowgroup;TRUE;LTL;768
+4285;single_task;comma;TRUE;LTL;768
+4000;single_task;changitravelservicespteltd;TRUE;LTL;768
+4601;single_task;tbinc;TRUE;LTL;768
+4608;single_task;dispatchservices;TRUE;LTL;768
+4393;single_task;jscsb;TRUE;LTL;768
+5002;single_task;redjasperholdings;TRUE;LTL;768
+5026;single_task;shenzhoudadifood-beveragesgroupsdnbhd;TRUE;LTL;768
+5030;single_task;anan;TRUE;LTL;768
+5035;single_task;sophie;TRUE;LTL;768
+5038;single_task;ad-scafeburgerbar-mixedgrill;TRUE;LTL;768
+4538;single_task;hasral;TRUE;LTL;768
+3500;single_task;nocompany;TRUE;LTL;768
+3506;single_task;ttme;TRUE;LTL;768
+3510;single_task;1974;TRUE;LTL;768
+3517;single_task;selectcouriersptyltd;TRUE;LTL;768
+4380;single_task;geetha-report-ongoing;TRUE;LTL;768
+4385;single_task;digitaltransformationllc;TRUE;LTL;768
+4407;single_task;preoday;TRUE;LTL;768
+4640;single_task;iam;TRUE;LTL;768
+4962;single_task;icargo;TRUE;LTL;768
+4992;single_task;tipple;TRUE;LTL;768
+5016;single_task;dgbnetworkssdnbhd;TRUE;LTL;768
+5031;single_task;infiniteexpresspteltd;TRUE;LTL;768
+3511;single_task;arklifedistributorspteltd;TRUE;LTL;768
+4153;single_task;d-eventzcreations;TRUE;LTL;768
+4281;single_task;xemgraver;TRUE;LTL;768
+3990;single_task;easy;TRUE;LTL;768
+4612;single_task;blairjenkins;TRUE;LTL;768
+3496;single_task;nfterraresource;TRUE;LTL;768
+3502;single_task;seoulexpressrestaurantgroupptyltd;TRUE;LTL;768
+4386;single_task;yusenlogistics;TRUE;LTL;768
+4389;single_task;wegym;TRUE;LTL;768
+4395;single_task;skateshank;TRUE;LTL;768
+4399;single_task;eloquent;TRUE;LTL;768
+4403;single_task;totgroup;TRUE;LTL;768
+4409;single_task;primetechnologypteltd;TRUE;LTL;768
+5034;single_task;wta;TRUE;LTL;768
+4282;single_task;subzsuits;TRUE;LTL;768
+3498;single_task;akibacanberraptyltd;TRUE;LTL;768
+3503;single_task;elly;TRUE;LTL;768
+3508;single_task;one42;TRUE;LTL;768
+4381;single_task;alfiantexttrucks;TRUE;LTL;768
+4390;single_task;mollieandgeorgeptyltd;TRUE;LTL;768
+5012;single_task;besttrack;TRUE;LTL;768
+4405;single_task;doctoranywhere;TRUE;LTL;768
+3507;single_task;east33;TRUE;LTL;768
+4951;single_task;shopeee;TRUE;LTL;768
+5017;single_task;bigbrandpteltd;TRUE;LTL;768
+5010;single_task;leverark;TRUE;LTL;768
+5042;single_task;infinitetransports;TRUE;LTL;768
+3499;single_task;hartwigair;TRUE;LTL;768
+3518;single_task;kleekgroupsdnbhd;TRUE;LTL;768
+4379;single_task;bobo-bopstransport;TRUE;LTL;768
+4391;single_task;kobeshipping-forwardingagencies;TRUE;LTL;768
+4413;single_task;proallianceinternational;TRUE;LTL;768
+4603;single_task;hdt;TRUE;LTL;768
+5036;single_task;ninja;TRUE;LTL;768
+4378;single_task;annabel;TRUE;LTL;768
+4382;single_task;thegardenfoodindustriesplt;TRUE;LTL;768
+4387;single_task;yourushourdeliveryllp;TRUE;LTL;768
+3514;single_task;genesislogistics;TRUE;LTL;768
+4424;single_task;transform;TRUE;LTL;768
+4401;single_task;bls;TRUE;LTL;768
+4404;single_task;eazyware;TRUE;LTL;768
+4415;single_task;jetexpress;TRUE;LTL;768
+4418;single_task;unitedautotradingpteltd;TRUE;LTL;768
+4614;single_task;simyewenterprisesdnbhd;TRUE;LTL;768
+3991;single_task;litexp;TRUE;LTL;768
+5013;single_task;gpslands-m-sdnbhd;TRUE;LTL;768
+4123;single_task;zoomservices;TRUE;LTL;768
+4618;single_task;eastcoasttransportandremovals;TRUE;LTL;768
+5027;single_task;battery4usdnbhd;TRUE;LTL;768
+4406;single_task;wordstream;TRUE;LTL;768
+4421;single_task;testrrrrrrrrr;TRUE;LTL;768
+4641;single_task;speedpropteltd;TRUE;LTL;768
+3994;single_task;eaglecitygroupsdnbhd;TRUE;LTL;768
+4411;single_task;haiqal;TRUE;LTL;768
+4416;single_task;vx;TRUE;LTL;768
+4420;single_task;belindap;TRUE;LTL;768
+4615;single_task;speckledspace;TRUE;LTL;768
+4965;single_task;tottransport;TRUE;LTL;768
+4173;single_task;comercioidealpteltd;TRUE;LTL;768
+3989;single_task;sugan;TRUE;LTL;768
+3497;single_task;okwherelogistics;TRUE;LTL;768
+3513;single_task;ep;TRUE;LTL;768
+3515;single_task;3dayslogisticspteltd;TRUE;LTL;768
+4392;single_task;theviswagroup;TRUE;LTL;768
+4397;single_task;daveystreetdiscountpharmacy;TRUE;LTL;768
+4561;single_task;testingkn;TRUE;LTL;768
+4964;single_task;billslogisticsolutionsdnbhd;TRUE;LTL;768
+4550;single_task;themiddlemenservices;TRUE;LTL;768
+4571;single_task;cwf;TRUE;LTL;768
+4502;single_task;quikerlydeliveryservices;TRUE;LTL;768
+4504;single_task;schneiderelectric;TRUE;LTL;768
+4503;single_task;jattbros;TRUE;LTL;768
+4042;single_task;vivian;TRUE;LTL;768
+4528;single_task;eshhenlogistics;TRUE;LTL;768
+4533;single_task;mltest;TRUE;LTL;768
+4534;single_task;goodcycles2;TRUE;LTL;768
+4553;single_task;bringjoy;TRUE;LTL;768
+4539;single_task;benworth;TRUE;LTL;768
+4542;single_task;visualdesignssg;TRUE;LTL;768
+4544;single_task;buy4upteltd;TRUE;LTL;768
+4546;single_task;jax;TRUE;LTL;768
+4547;single_task;jax-sg;TRUE;LTL;768
+4548;single_task;inchziotsdnbhd;TRUE;LTL;768
+4549;single_task;rach;TRUE;LTL;768
+4551;single_task;2menlogisticspteltd;TRUE;LTL;768
+4556;single_task;testr;TRUE;LTL;768
+4558;single_task;testr123;TRUE;LTL;768
+4506;single_task;gsporttyresptyltd;TRUE;LTL;768
+4509;single_task;ausipulselogistics;TRUE;LTL;768
+4511;single_task;reachussoon;TRUE;LTL;768
+4500;single_task;microboss;TRUE;LTL;768
+4505;single_task;scalelogistics;TRUE;LTL;768
+4507;single_task;fountaintechnologiespte-ltd;TRUE;LTL;768
+4501;single_task;myfreight;TRUE;LTL;768
+4011;single_task;panjangkee;TRUE;LTL;768
+3521;single_task;ourdeliveryhub;TRUE;LTL;768
+4176;single_task;knsb;TRUE;LTL;768
+4013;single_task;sassafraslogisticsconsultancyservices;TRUE;LTL;768
+4015;single_task;rajanexpresstest;TRUE;LTL;768
+4021;single_task;fz;TRUE;LTL;768
+4023;single_task;knlastmile;TRUE;LTL;768
+4025;single_task;yojeemarketing;TRUE;LTL;768
+4084;single_task;solarrun;TRUE;LTL;768
+4027;single_task;jattlogisticsptyltd;TRUE;LTL;768
+4031;single_task;sandstone;TRUE;LTL;768
+4033;single_task;westcoastkalgoorlieexpress;TRUE;LTL;768
+4035;single_task;octtavawines;TRUE;LTL;768
+4039;single_task;kn-th;TRUE;LTL;768
+3523;single_task;maersk;TRUE;LTL;768
+4049;single_task;testcreate;TRUE;LTL;768
+4086;single_task;testcreate2;TRUE;LTL;768
+4053;single_task;testlistview;TRUE;LTL;768
+4055;single_task;theosg;TRUE;LTL;768
+4057;single_task;testblitz2111;TRUE;LTL;768
+4088;single_task;testblitz211133;TRUE;LTL;768
+4178;single_task;yojee333333222;TRUE;LTL;768
+3551;single_task;yojee333333222333;TRUE;LTL;768
+4059;single_task;knglobal;TRUE;LTL;768
+3524;single_task;yojeeglobal;TRUE;LTL;768
+4063;single_task;theatistraders;TRUE;LTL;768
+4065;single_task;mephisto;TRUE;LTL;768
+3525;single_task;project70-coreytest;TRUE;LTL;768
+3526;single_task;tntt-express;TRUE;LTL;768
+3528;single_task;geetha_tester_partner_2;TRUE;LTL;768
+3530;single_task;geetha_tester_partner_1;TRUE;LTL;768
+3552;single_task;company_partner_name;TRUE;LTL;768
+3531;single_task;jasonyeohtest;TRUE;LTL;768
+4093;single_task;test-enterprise-1;TRUE;LTL;768
+3534;single_task;test-enterprise2;TRUE;LTL;768
+3536;single_task;geetha_partner_for_enterprise_1;TRUE;LTL;768
+4097;single_task;maersk-th;TRUE;LTL;768
+4098;single_task;kvc;TRUE;LTL;768
+4100;single_task;geodis-road-management;TRUE;LTL;768
+3538;single_task;cbg;TRUE;LTL;768
+4182;single_task;test-p70;TRUE;LTL;768
+4102;single_task;trustlog;TRUE;LTL;768
+4103;single_task;eyrraaa;TRUE;LTL;768
+3541;single_task;geetha_live_invite_partner;TRUE;LTL;768
+3545;single_task;yojeejames;TRUE;LTL;768
+4183;single_task;wsi;TRUE;LTL;768
+3554;single_task;geetha_partner_invite_x;TRUE;LTL;768
+3556;single_task;maersk-my;TRUE;LTL;768
+3547;single_task;partner_my1;TRUE;LTL;768
+4301;single_task;abc_haulier;TRUE;LTL;768
+4354;single_task;tlm;TRUE;LTL;768
+3561;single_task;progress;TRUE;LTL;768
+3563;single_task;vdk_transport;TRUE;LTL;768
+3565;single_task;mts;TRUE;LTL;768
+4429;single_task;pcontrol_logistics_coltd;TRUE;LTL;768
+4674;single_task;changthai_supply_2002_ltd;TRUE;LTL;768
+4676;single_task;fartimi_hauliage;TRUE;LTL;768
+4678;single_task;ezyhual_transport_coltd;TRUE;LTL;768
+4680;single_task;april_haulage;TRUE;LTL;768
+4682;single_task;affandi;TRUE;LTL;768
+3569;single_task;live_partner_3;TRUE;LTL;768
+4686;single_task;ndd_international_thailand_ltd;TRUE;LTL;768
+4688;single_task;merlex_transport_coltd;TRUE;LTL;768
+4690;single_task;azuma_transport_services_thailand_coltd;TRUE;LTL;768
+4692;single_task;newborn_transport_coltd;TRUE;LTL;768
+3571;single_task;siam_shoreside_coltd;TRUE;LTL;768
+3573;single_task;city_zone_express_coltd;TRUE;LTL;768
+3575;single_task;chonburian_coltd;TRUE;LTL;768
+3578;single_task;mahaporn_transport_coltd;TRUE;LTL;768
+3580;single_task;stuart;TRUE;LTL;768
+4694;single_task;narita_shipping_transport_sdn_bhd;TRUE;LTL;768
+4698;single_task;wheels_on_wheels_coltd;TRUE;LTL;768
+4701;single_task;lai_haulage;TRUE;LTL;768
+4703;single_task;stuart_logistic;TRUE;LTL;768
+4705;single_task;rantau_panjang_haulage_sdn_bhd_rph;TRUE;LTL;768
+4707;single_task;mon_logistics_group;TRUE;LTL;768
+4709;single_task;maersk-id;TRUE;LTL;768
+4711;single_task;hub_distributors;TRUE;LTL;768
+3587;single_task;company_partner_2;TRUE;LTL;768
+4715;single_task;1;TRUE;LTL;768
+4717;single_task;rj_logistics_coltd;TRUE;LTL;768
+4719;single_task;itx_transport_coltd;TRUE;LTL;768
+4721;single_task;thai_reefer_group;TRUE;LTL;768
+4726;single_task;geetha_autoaccept;TRUE;LTL;768
+4728;single_task;hermes_logistics_service_coltd;TRUE;LTL;768
+4730;single_task;allied_container_services_pte_ltd;TRUE;LTL;768
+4732;single_task;nissei_logistics_coltd;TRUE;LTL;768
+4736;single_task;innovation_company;TRUE;LTL;768
+4744;single_task;geetha-trail;TRUE;LTL;768
+4748;single_task;yangkee;TRUE;LTL;768
+4750;single_task;pertiwi_sejagat;TRUE;LTL;768
+4761;single_task;samudera_perdana;TRUE;LTL;768
+4763;single_task;monang_sianipar_abadi;TRUE;LTL;768
+4765;single_task;mblog;TRUE;LTL;768
+4767;single_task;mtkonsurabaya;TRUE;LTL;768
+4769;single_task;global_bahtera_logistik;TRUE;LTL;768
+4773;single_task;galaxi;TRUE;LTL;768
+4775;single_task;kingstone;TRUE;LTL;768
+3589;single_task;pos_logistics;TRUE;LTL;768
+3591;single_task;testpartnerjackie;TRUE;LTL;768
+4781;single_task;panumas_transport_coltd;TRUE;LTL;768
+4791;single_task;abcsub;TRUE;LTL;768
+4793;single_task;pancaran_darat_transport;TRUE;LTL;768
+4795;single_task;pt_logol_jakarta_mitraindo;TRUE;LTL;768
+4797;single_task;hacaca;TRUE;LTL;768
+4799;single_task;pt_logistik_pintar_indonesia;TRUE;LTL;768
+3593;single_task;marcos_trans;TRUE;LTL;768
+4212;single_task;tamari;TRUE;LTL;768
+3595;single_task;ptdia;TRUE;LTL;768
+3599;single_task;partner_101;TRUE;LTL;768
+4967;single_task;partner_103;TRUE;LTL;768
+4802;single_task;safe_logistics_coltd;TRUE;LTL;768
+4968;single_task;test_welcome_dispatcher;TRUE;LTL;768
+4806;single_task;megastar;TRUE;LTL;768
+4808;single_task;kamadjaja_logistik;TRUE;LTL;768
+4810;single_task;seaconterminal;TRUE;LTL;768
+4812;single_task;mk_logistic;TRUE;LTL;768
+4814;single_task;energy_logistics;TRUE;LTL;768
+4816;single_task;ife;TRUE;LTL;768
+4818;single_task;glog;TRUE;LTL;768
+4820;single_task;hacaca_surabaya;TRUE;LTL;768
+4822;single_task;geetha_test_container_number_partner;TRUE;LTL;768
+4824;single_task;pt_vita_kumala_jaya;TRUE;LTL;768
+4826;single_task;ptxpresindo;TRUE;LTL;768
+4828;single_task;testing-maersk-th;TRUE;LTL;768
+4830;single_task;resolutions;TRUE;LTL;768
+4832;single_task;pacific_express;TRUE;LTL;768
+4834;single_task;geetha_container_tester;TRUE;LTL;768
+4836;single_task;cti_logistics_coltd;TRUE;LTL;768
+4838;single_task;knlmtesting;TRUE;LTL;768
+4840;single_task;lai_pad_korn_co_ltd;TRUE;LTL;768
+4842;single_task;catur_wibawa_indoekspres;TRUE;LTL;768
+4844;single_task;javana;TRUE;LTL;768
+4848;single_task;tangguh_logistindo;TRUE;LTL;768
+4850;single_task;nextgen_logistics_co_ltd;TRUE;LTL;768
+4852;single_task;knlazada_cs;TRUE;LTL;768
+4854;single_task;sb_logistics_coltd;TRUE;LTL;768
+4856;single_task;rtn_logistics_co_ltd;TRUE;LTL;768
+4858;single_task;chetpitak_transport_coltd;TRUE;LTL;768
+4860;single_task;ratchasi_transport_coltd;TRUE;LTL;768
+4862;single_task;yojeeau;TRUE;LTL;768
+4864;single_task;mrich_equipment_management_coltd;TRUE;LTL;768
+4866;single_task;nikpol;TRUE;LTL;768
+4868;single_task;ml_downstream1;TRUE;LTL;768
+4870;single_task;amazon;TRUE;LTL;768
+4871;single_task;knproddemo;TRUE;LTL;768
+4873;single_task;subthanakrit_transport_coltd;TRUE;LTL;768
+4875;single_task;airoceanic_express_sdn_bhd;TRUE;LTL;768
+4877;single_task;pt_damco_warehousing_indonesia;TRUE;LTL;768
+4880;single_task;aditestcorp;TRUE;LTL;768
+4884;single_task;sarana_agung_mulia_setia;TRUE;LTL;768
+4886;single_task;cikarang_inland_port;TRUE;LTL;768
+4888;single_task;gadgetseller;TRUE;LTL;768
+4890;single_task;open_food_partner;TRUE;LTL;768
+4892;single_task;pt_genesis_cikarang_whs;TRUE;LTL;768
+4894;single_task;seacon_surabaya;TRUE;LTL;768
+4896;single_task;pt_maju_trans_abadi;TRUE;LTL;768
+4898;single_task;pt_belawan_indah;TRUE;LTL;768
+4900;single_task;gautamtestco;TRUE;LTL;768
+4902;single_task;partner_name_2;TRUE;LTL;768
+4904;single_task;integrated_cold_chain_logistics_sdn_bhd;TRUE;LTL;768
+4906;single_task;misctest;TRUE;LTL;768
+4908;single_task;renovationkingdom;TRUE;LTL;768
+4910;single_task;jason_downstream;TRUE;LTL;768
+4912;single_task;companynametest;TRUE;LTL;768
+4918;single_task;cdr_trucking;TRUE;LTL;768
+4920;single_task;ina_corp;TRUE;LTL;768
+4971;single_task;ml_downstream_test_2;TRUE;LTL;768
+4974;single_task;ml_downstream_test_1;TRUE;LTL;768
+4923;single_task;sonic_interfrieght_plc;TRUE;LTL;768
+3601;single_task;rajabovorn_international_2004_co_ltd;TRUE;LTL;768
+3603;single_task;test_dashboards;TRUE;LTL;768
+3605;single_task;geetha_test_password;TRUE;LTL;768
+4213;single_task;qainvitedpartner;TRUE;LTL;768
+3608;single_task;banglamung_transport_ltd_part;TRUE;LTL;768
+3609;single_task;whale_point_one_coltd;TRUE;LTL;768
+3611;single_task;all_trans_inter_logistics_coltd;TRUE;LTL;768
+3615;single_task;great_transport_service_co_ltd;TRUE;LTL;768
+3617;single_task;vs;TRUE;LTL;768
+3619;single_task;testsend;TRUE;LTL;768
+3621;single_task;cpro_freight_co_ltd;TRUE;LTL;768
+3623;single_task;nakorn898transport_co_ltd;TRUE;LTL;768
+3625;single_task;jason_downstream_2;TRUE;LTL;768
+3627;single_task;stuart_hualage;TRUE;LTL;768
+3629;single_task;geetha_test_withdrew;TRUE;LTL;768
+4430;single_task;testsend2;TRUE;LTL;768
+4433;single_task;mltransport;TRUE;LTL;768
+4435;single_task;mlcourier;TRUE;LTL;768
+4925;single_task;lee_ting_san;TRUE;LTL;768
+4931;single_task;pt_kencana_pesaka_abadi;TRUE;LTL;768
+5764;single_task;tester_partner_test;TRUE;LTL;768
+3494;single_task;deploymenttest;TRUE;LTL;768
+3492;single_task;kfs_shipping;TRUE;LTL;768
+5797;single_task;pdrw999_service_part;TRUE;LTL;768
+5822;single_task;beyondexpress;TRUE;LTL;768
+5825;single_task;mfm;TRUE;LTL;768
+5826;single_task;tong_container;TRUE;LTL;768
+3484;single_task;maersk-vn;TRUE;LTL;768
+3474;single_task;maersk-vn-test;TRUE;LTL;768
+3473;single_task;jason_vietnam_ds;TRUE;LTL;768
+4016;single_task;lintas_niaga_jaya;TRUE;LTL;768
+3465;single_task;ceva-sg;TRUE;LTL;768
+3463;single_task;ceva-sg-test;TRUE;LTL;768
+3459;single_task;kn-th-test;TRUE;LTL;768
+4074;single_task;lintas_niaga_jaya_jakarta;TRUE;LTL;768
+7299;single_task;michaeltest;TRUE;LTL;768
+4076;single_task;pulau_nusantara;TRUE;LTL;768
+4112;single_task;tritunggal;TRUE;LTL;768
+3451;single_task;markloontest;TRUE;LTL;768
+3449;single_task;BryanGaddiTest;TRUE;LTL;768
+4078;single_task;asl;TRUE;LTL;768
+4080;single_task;bumi_wijaya_indorail;TRUE;LTL;768
+4105;single_task;geetha_url_partner;TRUE;LTL;768
+4106;single_task;ceva_rapid;TRUE;LTL;768
+3447;single_task;efm-demo;TRUE;LTL;768
+3469;single_task;gek;TRUE;LTL;768
+3470;single_task;ka3;TRUE;LTL;768
+3445;single_task;bryantest;TRUE;LTL;768
+3472;single_task;manh;TRUE;LTL;768
+3471;single_task;hd_links;TRUE;LTL;768
+3482;single_task;hdlinks_logistics_service_company_limited;TRUE;LTL;768
+4192;single_task;test_partner_cti;TRUE;LTL;768
+3483;single_task;dai_quoc_viet;TRUE;LTL;768
+3436;single_task;geodis-th;TRUE;LTL;768
+3481;single_task;kioway;TRUE;LTL;768
+3433;single_task;kn-tr;TRUE;LTL;768
+3431;single_task;yojee-tester-company;TRUE;LTL;768
+3429;single_task;yojee-tester-01;TRUE;LTL;768
+4043;single_task;test_system;TRUE;LTL;768
+4046;single_task;tony_partner;TRUE;LTL;768
+4134;single_task;kornwi_logistics_coltd;TRUE;LTL;768
+3427;single_task;jackie_feature_config;TRUE;LTL;768
+3435;single_task;chai_transport_ltd;TRUE;LTL;768
+3425;single_task;geodis-my;TRUE;LTL;768
+5783;single_task;manual_planing;TRUE;LTL;768
+5724;single_task;maersk-kh;TRUE;LTL;768
+5722;single_task;maersk-mm;TRUE;LTL;768
+5720;single_task;testcraig;TRUE;LTL;768
+5785;single_task;pt_enersia_permata_abadi;TRUE;LTL;768
+5737;single_task;slp_log;TRUE;LTL;768
+5756;single_task;damco_co_ltd;TRUE;LTL;768
+5742;single_task;ifl_infinia;TRUE;LTL;768
+5714;single_task;geodis-vn2;TRUE;LTL;768
+5712;single_task;geodis-vn3;TRUE;LTL;768
+5710;single_task;geodis-vn4;TRUE;LTL;768
+5743;single_task;bayulogistik;TRUE;LTL;768
+5708;single_task;test_au_melbourne;TRUE;LTL;768
+5781;single_task;test_doc;TRUE;LTL;768
+5738;single_task;td_transport;TRUE;LTL;768
+5766;single_task;pacific_trans_pte_ltd;TRUE;LTL;768
+5829;single_task;pt_cipta_abadi_jaya_trans;TRUE;LTL;768
+5818;single_task;nky;TRUE;LTL;768
+5741;single_task;biogreen;TRUE;LTL;768
+5736;single_task;ask88;TRUE;LTL;768
+5819;single_task;pt_bimaruna_jaya;TRUE;LTL;768
+5740;single_task;visions_transport;TRUE;LTL;768
+5739;single_task;mpms;TRUE;LTL;768
+5702;single_task;airstep;TRUE;LTL;768
+5684;single_task;ceva-my;TRUE;LTL;768
+5813;single_task;pt_karya_putra_ardini;TRUE;LTL;768
+5811;single_task;whatfix_partner;TRUE;LTL;768
+5795;single_task;pt_inesia_kargotama_indonesia;TRUE;LTL;768
+5676;single_task;yojeedemo;TRUE;LTL;768
+5789;single_task;partner_2022;TRUE;LTL;768
+5769;single_task;ml_express;TRUE;LTL;768
+5674;single_task;maersk-my-cl;TRUE;LTL;768
+5771;single_task;kargo_tech;TRUE;LTL;768
+5728;single_task;whatfix;TRUE;LTL;768
+5729;single_task;wfx;TRUE;LTL;768
+5670;single_task;test-qa-upstream;TRUE;LTL;768
+5668;single_task;vallen-sg;TRUE;LTL;768
+5761;single_task;hacaca_semarang;TRUE;LTL;768
+5666;single_task;starter__package_sample;TRUE;LTL;768
+5657;single_task;vivien;TRUE;LTL;768
+5654;single_task;jasonyeoh-ph;TRUE;LTL;768
+5815;single_task;tong_containers;TRUE;LTL;768
+5688;single_task;demo_partner;TRUE;LTL;768
+5809;single_task;pickupp;TRUE;LTL;768
+5807;single_task;partner_2022a;TRUE;LTL;768
+5791;single_task;azlena;TRUE;LTL;768
+5767;single_task;ceva_partner;TRUE;LTL;768
+5648;single_task;geodis-vn;TRUE;LTL;768
+5641;single_task;app;TRUE;LTL;768
+5660;single_task;2pl_sg_haulier_dd;TRUE;LTL;768
+5659;single_task;2pl_sg_haulier_cc;TRUE;LTL;768
+5656;single_task;2pl_sg_haulier_aa;TRUE;LTL;768
+5658;single_task;2pl_sg_haulier_bb;TRUE;LTL;768
+5640;single_task;app_test_partner;TRUE;LTL;768
+5760;single_task;tr_partner;TRUE;LTL;768
+5646;single_task;jing_hoi_logistics;TRUE;LTL;768
+5647;single_task;ka_logistics;TRUE;LTL;768
+5634;single_task;partnerpartner;TRUE;LTL;768
+5772;single_task;partner_z;TRUE;LTL;768
+5774;single_task;partner_melb;TRUE;LTL;768
+5630;single_task;qa-company-partner;TRUE;LTL;768
+5777;single_task;check_sen_prod;TRUE;LTL;768
+5778;single_task;pt_lintas_samudera_jaya;TRUE;LTL;768
+5628;single_task;globalandelitetestpackage;TRUE;LTL;768
+5786;single_task;optimisation_partner;TRUE;LTL;768
+5752;single_task;sta_coloma;TRUE;LTL;768
+5792;single_task;winning_group_partner;TRUE;LTL;768
+5622;single_task;geetha-enterprise1;TRUE;LTL;768
+5620;single_task;mitsui-soko;TRUE;LTL;768
+5618;single_task;qa-enterprise1;TRUE;LTL;768
+5685;single_task;jasmine_logistics;TRUE;LTL;768
+5802;single_task;tanjong_express;TRUE;LTL;768
+5642;single_task;doni_test_partner;TRUE;LTL;768
+5686;single_task;rubayyi_logistics;TRUE;LTL;768
+5687;single_task;mizah_logistics;TRUE;LTL;768
+5689;single_task;one_third;TRUE;LTL;768
+5690;single_task;upnload;TRUE;LTL;768
+5683;single_task;integrated_cold_chain_logistics;TRUE;LTL;768
+5682;single_task;doe_penang_express_logistics;TRUE;LTL;768
+5616;single_task;qa-old-new;TRUE;LTL;768
+5945;single_task;cjcentury;TRUE;LTL;768
+6004;single_task;ngaiheng;TRUE;LTL;768
+6025;single_task;geodis_sg_trial;TRUE;LTL;768
+6086;single_task;yojee_certification_whatfix;TRUE;LTL;768
+6150;single_task;shopify-test;TRUE;LTL;768
+6173;single_task;ilyatest;TRUE;LTL;768
+6208;single_task;jasonyeoh;TRUE;LTL;768
+6236;single_task;aveon;TRUE;LTL;768
+6263;single_task;cateringproject;TRUE;LTL;768
+6355;single_task;darrendemo;TRUE;LTL;768
+6373;single_task;linges;TRUE;LTL;768
+6388;single_task;vivien-jp;TRUE;LTL;768
+6395;single_task;woocommerce-test;TRUE;LTL;768
+6490;single_task;ceva_my_test;TRUE;LTL;768
+6634;single_task;hawktest;TRUE;LTL;768
+6662;single_task;tollgroup-sg;TRUE;LTL;768
+6735;single_task;exl-test-company;TRUE;LTL;768
+7037;single_task;cameron_test;TRUE;LTL;768
+7086;single_task;jandjlogistics;TRUE;LTL;768
+7122;single_task;jasonyeoh-id;TRUE;LTL;768
+7131;single_task;handelgroup;TRUE;LTL;768
+7202;single_task;nina-test-partner;TRUE;LTL;768
+7289;single_task;nina-enterprise;TRUE;LTL;768
+7304;single_task;translations-nina;TRUE;LTL;768
+7357;single_task;durga_test;TRUE;LTL;768
+3632;point_to_point;yojee;TRUE;LTL;761
+3660;point_to_point;scharff;TRUE;LTL;761
+3665;point_to_point;ups;TRUE;LTL;761
+3684;point_to_point;tester-2;TRUE;LTL;761
+3663;point_to_point;pumasera;TRUE;LTL;761
+3631;point_to_point;aeroline-services;TRUE;LTL;761
+3654;point_to_point;yojsgp;TRUE;LTL;761
+3685;point_to_point;yojmel;TRUE;LTL;761
+3688;point_to_point;yojsyd;TRUE;LTL;761
+3637;point_to_point;yojmys;TRUE;LTL;761
+3683;point_to_point;yojidn;TRUE;LTL;761
+3687;point_to_point;ed;TRUE;LTL;761
+3650;point_to_point;happybunch;TRUE;LTL;761
+3641;point_to_point;mydelivery2u;TRUE;LTL;761
+3673;point_to_point;s&c-transport;TRUE;LTL;761
+3634;point_to_point;anu-aus;TRUE;LTL;761
+3640;point_to_point;andy-co;TRUE;LTL;761
+3686;point_to_point;aus-partner;TRUE;LTL;761
+4071;point_to_point;anu-sgp;TRUE;LTL;761
+3656;point_to_point;cfsmel;TRUE;LTL;761
+3657;point_to_point;goldstar-transport;TRUE;LTL;761
+3659;point_to_point;yojee-downstream;TRUE;LTL;761
+3649;point_to_point;anu-thai;TRUE;LTL;761
+3642;point_to_point;duijnunder;TRUE;LTL;761
+3682;point_to_point;carrier-next-day;TRUE;LTL;761
+3647;point_to_point;carrier-cold-chain;TRUE;LTL;761
+3644;point_to_point;yojee-sandbox;TRUE;LTL;761
+3639;point_to_point;rotterdam;TRUE;LTL;761
+3646;point_to_point;singapore;TRUE;LTL;761
+3693;point_to_point;company-x;TRUE;LTL;761
+3695;point_to_point;lego;TRUE;LTL;761
+3701;point_to_point;yojmy;TRUE;LTL;761
+4440;point_to_point;carrier-same-day;TRUE;LTL;761
+4353;point_to_point;carrier-express;TRUE;LTL;761
+3707;point_to_point;teknology-consult;TRUE;LTL;761
+3710;point_to_point;accenture;TRUE;LTL;761
+3711;point_to_point;stevenson;TRUE;LTL;761
+3715;point_to_point;geodis;TRUE;LTL;761
+3718;point_to_point;scottlovattransport;TRUE;LTL;761
+3719;point_to_point;tbsh;TRUE;LTL;761
+3722;point_to_point;carrier-2-day;TRUE;LTL;761
+3723;point_to_point;alfiantest;TRUE;LTL;761
+3724;point_to_point;oliverholdings;TRUE;LTL;761
+3725;point_to_point;hanh27jul;TRUE;LTL;761
+3726;point_to_point;yojeehappy;TRUE;LTL;761
+3727;point_to_point;worlddomination;TRUE;LTL;761
+3728;point_to_point;karolis;TRUE;LTL;761
+3729;point_to_point;hanh29jul;TRUE;LTL;761
+3730;point_to_point;coreylogistics;TRUE;LTL;761
+3731;point_to_point;yojeesingapore;TRUE;LTL;761
+3732;point_to_point;gobigasia;TRUE;LTL;761
+3733;point_to_point;alfiantesttest;TRUE;LTL;761
+3735;point_to_point;sidtest;TRUE;LTL;761
+3736;point_to_point;bus-service;TRUE;LTL;761
+3737;point_to_point;test_gunne;TRUE;LTL;761
+3738;point_to_point;test2;TRUE;LTL;761
+3739;point_to_point;tes3;TRUE;LTL;761
+3740;point_to_point;test6;TRUE;LTL;761
+3741;point_to_point;tes36;TRUE;LTL;761
+3742;point_to_point;test7;TRUE;LTL;761
+3743;point_to_point;test8;TRUE;LTL;761
+3744;point_to_point;xpress2ucouriers;TRUE;LTL;761
+3745;point_to_point;acmeco;TRUE;LTL;761
+3746;point_to_point;niki_test_selfsignup;TRUE;LTL;761
+3704;point_to_point;aditya-yojee-test;TRUE;LTL;761
+3747;point_to_point;hanh16aug;TRUE;LTL;761
+3748;point_to_point;directcouriers;TRUE;LTL;761
+3749;point_to_point;testat;TRUE;LTL;761
+3750;point_to_point;testat2;TRUE;LTL;761
+3751;point_to_point;testat3;TRUE;LTL;761
+3752;point_to_point;testat5;TRUE;LTL;761
+3753;point_to_point;testat4;TRUE;LTL;761
+3754;point_to_point;test9;TRUE;LTL;761
+3755;point_to_point;frontfoot;TRUE;LTL;761
+3756;point_to_point;timebox;TRUE;LTL;761
+3759;point_to_point;fire222;TRUE;LTL;761
+3760;point_to_point;fire1abvb;TRUE;LTL;761
+3761;point_to_point;testat3333;TRUE;LTL;761
+3762;point_to_point;mclean&co;TRUE;LTL;761
+3763;point_to_point;topguns;TRUE;LTL;761
+3764;point_to_point;gkrtransport;TRUE;LTL;761
+3765;point_to_point;gigashipping;TRUE;LTL;761
+3766;point_to_point;smokeybayseafoodltd;TRUE;LTL;761
+3767;point_to_point;test_company_update;TRUE;LTL;761
+3768;point_to_point;hanh02sep;TRUE;LTL;761
+3769;point_to_point;liberatech;TRUE;LTL;761
+3770;point_to_point;southeastcouriers;TRUE;LTL;761
+3772;point_to_point;sglh;TRUE;LTL;761
+3773;point_to_point;testcreatingslug;TRUE;LTL;761
+3774;point_to_point;testcreatingslug1;TRUE;LTL;761
+3775;point_to_point;-testslugwithspecialchars--$-^--()abc-;TRUE;LTL;761
+3776;point_to_point;testcompanywithspecial-chars33;TRUE;LTL;761
+3777;point_to_point;yojeesales;TRUE;LTL;761
+3778;point_to_point;testingsaleissue;TRUE;LTL;761
+3779;point_to_point;comanpanynamewithyojee;TRUE;LTL;761
+3780;point_to_point;lora-anne-ingram1testing;TRUE;LTL;761
+3781;point_to_point;fireonfiretesting;TRUE;LTL;761
+3782;point_to_point;marketingissue;TRUE;LTL;761
+3783;point_to_point;testsamephonenumber;TRUE;LTL;761
+3784;point_to_point;testcuong19sep;TRUE;LTL;761
+3785;point_to_point;pengwin.social;TRUE;LTL;761
+3786;point_to_point;staff24;TRUE;LTL;761
+3787;point_to_point;testino;TRUE;LTL;761
+3788;point_to_point;justdoit;TRUE;LTL;761
+3790;point_to_point;gloomlogistics;TRUE;LTL;761
+3792;point_to_point;pt-priangancitylines;TRUE;LTL;761
+3793;point_to_point;pt-damaianugerahlestari;TRUE;LTL;761
+3794;point_to_point;pt-farisaglobaltouristama;TRUE;LTL;761
+3795;point_to_point;pt-mitrapesonatravel;TRUE;LTL;761
+3798;point_to_point;nil;TRUE;LTL;761
+3799;point_to_point;pjsgourmetexpress-1;TRUE;LTL;761
+3800;point_to_point;dianatravel;TRUE;LTL;761
+3801;point_to_point;jinggatravel;TRUE;LTL;761
+3802;point_to_point;melatitravel;TRUE;LTL;761
+3803;point_to_point;testcompany17oct2019;TRUE;LTL;761
+3804;point_to_point;testingcompany2;TRUE;LTL;761
+3805;point_to_point;kg_test;TRUE;LTL;761
+3806;point_to_point;blossom;TRUE;LTL;761
+3807;point_to_point;kg_test_2;TRUE;LTL;761
+3808;point_to_point;wahyoo;TRUE;LTL;761
+3809;point_to_point;dynamic;TRUE;LTL;761
+3810;point_to_point;personal;TRUE;LTL;761
+3811;point_to_point;kswt;TRUE;LTL;761
+4442;point_to_point;rajanexpress;TRUE;LTL;761
+3813;point_to_point;hockcheong;TRUE;LTL;761
+3814;point_to_point;csr;TRUE;LTL;761
+3815;point_to_point;mahaviewservices;TRUE;LTL;761
+3817;point_to_point;meitechnologypteltd;TRUE;LTL;761
+3818;point_to_point;bnt-bulk-haulage;TRUE;LTL;761
+3819;point_to_point;maxis;TRUE;LTL;761
+3820;point_to_point;mesjadilogisticssdnbhd;TRUE;LTL;761
+3821;point_to_point;stantalogisticssdnbhd;TRUE;LTL;761
+3822;point_to_point;kudratmaritimemalaysia;TRUE;LTL;761
+3823;point_to_point;mdrive;TRUE;LTL;761
+3824;point_to_point;fetracore;TRUE;LTL;761
+3825;point_to_point;jobtagsdn;TRUE;LTL;761
+3826;point_to_point;bizzylogistics;TRUE;LTL;761
+3828;point_to_point;betaangkut;TRUE;LTL;761
+3829;point_to_point;joxu;TRUE;LTL;761
+3830;point_to_point;nus;TRUE;LTL;761
+3831;point_to_point;makesend;TRUE;LTL;761
+3832;point_to_point;simonclark;TRUE;LTL;761
+4932;point_to_point;testcorp;TRUE;LTL;761
+3833;point_to_point;soilsaintsoils;TRUE;LTL;761
+3834;point_to_point;last;TRUE;LTL;761
+3835;point_to_point;hajtrading-transportationsdnbhd;TRUE;LTL;761
+3837;point_to_point;tsssensitivefreight;TRUE;LTL;761
+3838;point_to_point;eblack-white;TRUE;LTL;761
+3839;point_to_point;meta;TRUE;LTL;761
+3840;point_to_point;tridentplastics;TRUE;LTL;761
+3841;point_to_point;brinksglobalservices;TRUE;LTL;761
+3842;point_to_point;qilmily;TRUE;LTL;761
+3843;point_to_point;perfectroomssdnbhd;TRUE;LTL;761
+3844;point_to_point;mraxxtrading;TRUE;LTL;761
+3845;point_to_point;jajal;TRUE;LTL;761
+3846;point_to_point;indotrans;TRUE;LTL;761
+3847;point_to_point;inspectorio;TRUE;LTL;761
+3848;point_to_point;ancofreight;TRUE;LTL;761
+3849;point_to_point;jantzen;TRUE;LTL;761
+3850;point_to_point;asdsa;TRUE;LTL;761
+3851;point_to_point;fernsnpetals;TRUE;LTL;761
+3852;point_to_point;indotranspteltd;TRUE;LTL;761
+3853;point_to_point;agereaccounting-advisorypteltd;TRUE;LTL;761
+3854;point_to_point;p-gtrial;TRUE;LTL;761
+3855;point_to_point;csxsolutionssdnbhd;TRUE;LTL;761
+3856;point_to_point;monlogustic;TRUE;LTL;761
+3857;point_to_point;mcdonalds;TRUE;LTL;761
+3858;point_to_point;feeyond;TRUE;LTL;761
+3859;point_to_point;vescomalaysia;TRUE;LTL;761
+3860;point_to_point;beancargo;TRUE;LTL;761
+3862;point_to_point;moochi;TRUE;LTL;761
+3863;point_to_point;n-a;TRUE;LTL;761
+3864;point_to_point;harimaya-sonpteltd;TRUE;LTL;761
+3865;point_to_point;appliedinstallations;TRUE;LTL;761
+3866;point_to_point;puhuainternationalpteltd;TRUE;LTL;761
+3867;point_to_point;kaer;TRUE;LTL;761
+3868;point_to_point;imec;TRUE;LTL;761
+3869;point_to_point;unussolutions;TRUE;LTL;761
+3870;point_to_point;beanage;TRUE;LTL;761
+3871;point_to_point;michellengaibeeyea;TRUE;LTL;761
+3872;point_to_point;prospectlogisticspteltd;TRUE;LTL;761
+3873;point_to_point;goodwillentertainmentholdingpteltd;TRUE;LTL;761
+3874;point_to_point;jasmine;TRUE;LTL;761
+3875;point_to_point;testemail;TRUE;LTL;761
+3876;point_to_point;swiftdelivery;TRUE;LTL;761
+3877;point_to_point;usahajayamurnitrading;TRUE;LTL;761
+3878;point_to_point;unijaya;TRUE;LTL;761
+3879;point_to_point;aaaadvancedtrussesandwindows;TRUE;LTL;761
+3880;point_to_point;cirtrans;TRUE;LTL;761
+3881;point_to_point;pumpyjackson;TRUE;LTL;761
+3882;point_to_point;fepl;TRUE;LTL;761
+3883;point_to_point;singaporepolytechnic;TRUE;LTL;761
+3884;point_to_point;outlook;TRUE;LTL;761
+3885;point_to_point;winspec;TRUE;LTL;761
+3886;point_to_point;minmax;TRUE;LTL;761
+3887;point_to_point;minmin;TRUE;LTL;761
+3888;point_to_point;jamesco;TRUE;LTL;761
+3889;point_to_point;beann;TRUE;LTL;761
+3890;point_to_point;gracekelly;TRUE;LTL;761
+3891;point_to_point;geethablitz06feb_01;TRUE;LTL;761
+3892;point_to_point;geetha06feb_02blitz;TRUE;LTL;761
+3893;point_to_point;joshualewis;TRUE;LTL;761
+3894;point_to_point;lennonprice;TRUE;LTL;761
+3816;point_to_point;brianwilliams;TRUE;LTL;761
+3895;point_to_point;eirawright;TRUE;LTL;761
+3896;point_to_point;graciehawkins;TRUE;LTL;761
+3897;point_to_point;nhile;TRUE;LTL;761
+3898;point_to_point;testblitzaditya;TRUE;LTL;761
+3899;point_to_point;cruzwalsh;TRUE;LTL;761
+3900;point_to_point;alizon;TRUE;LTL;761
+3901;point_to_point;judebarnes;TRUE;LTL;761
+3902;point_to_point;testnhicompany;TRUE;LTL;761
+3903;point_to_point;visiintisinergis;TRUE;LTL;761
+3904;point_to_point;unsircle;TRUE;LTL;761
+3905;point_to_point;floradisestudio;TRUE;LTL;761
+3906;point_to_point;prosprconsultingpteltd;TRUE;LTL;761
+3907;point_to_point;tujuhexpress;TRUE;LTL;761
+3908;point_to_point;coreytester;TRUE;LTL;761
+3909;point_to_point;space-rentalpteltd;TRUE;LTL;761
+3910;point_to_point;netsensebusinesssolutions;TRUE;LTL;761
+3911;point_to_point;noro;TRUE;LTL;761
+3912;point_to_point;jamie;TRUE;LTL;761
+3913;point_to_point;nick-sdelivery;TRUE;LTL;761
+3914;point_to_point;testcompany;TRUE;LTL;761
+3915;point_to_point;testusercompany;TRUE;LTL;761
+3916;point_to_point;beannab;TRUE;LTL;761
+3917;point_to_point;harrisonbarnes;TRUE;LTL;761
+3918;point_to_point;rashadmadden;TRUE;LTL;761
+3919;point_to_point;james123;TRUE;LTL;761
+3920;point_to_point;james123conmeo;TRUE;LTL;761
+3921;point_to_point;jamesmino;TRUE;LTL;761
+3922;point_to_point;jamesmino2;TRUE;LTL;761
+3923;point_to_point;hazgotit;TRUE;LTL;761
+3924;point_to_point;testblitzgeetha20feb;TRUE;LTL;761
+3925;point_to_point;resolutionx;TRUE;LTL;761
+3926;point_to_point;pigeonsingapore;TRUE;LTL;761
+3927;point_to_point;mymovers;TRUE;LTL;761
+3928;point_to_point;zelsttrucks;TRUE;LTL;761
+3929;point_to_point;testcompanygeetha;TRUE;LTL;761
+3930;point_to_point;beanbean;TRUE;LTL;761
+3931;point_to_point;david-scouriers;TRUE;LTL;761
+3932;point_to_point;sunshinecoastwatercartage;TRUE;LTL;761
+3933;point_to_point;eurochoiceptyltd;TRUE;LTL;761
+3934;point_to_point;cwtrucking;TRUE;LTL;761
+3935;point_to_point;yumborama;TRUE;LTL;761
+3936;point_to_point;everythingpets;TRUE;LTL;761
+3937;point_to_point;world4pets;TRUE;LTL;761
+3939;point_to_point;pairedup;TRUE;LTL;761
+3940;point_to_point;trimasindo-global-perkasa;TRUE;LTL;761
+3941;point_to_point;geetha-test-trial-company;TRUE;LTL;761
+3942;point_to_point;3tierfoods;TRUE;LTL;761
+3943;point_to_point;achesonssmsf;TRUE;LTL;761
+3944;point_to_point;hollashop;TRUE;LTL;761
+3945;point_to_point;wedelysarl;TRUE;LTL;761
+3946;point_to_point;nextlink;TRUE;LTL;761
+3947;point_to_point;yojeesg;TRUE;LTL;761
+3948;point_to_point;jcexpress;TRUE;LTL;761
+3949;point_to_point;no7-jalancu1;TRUE;LTL;761
+3950;point_to_point;nikzz;TRUE;LTL;761
+3951;point_to_point;roadrebelpteltd;TRUE;LTL;761
+3952;point_to_point;totalcare;TRUE;LTL;761
+3953;point_to_point;srijan;TRUE;LTL;761
+3954;point_to_point;nikzz2;TRUE;LTL;761
+3955;point_to_point;jonathancollins;TRUE;LTL;761
+3956;point_to_point;jesseread;TRUE;LTL;761
+3957;point_to_point;jesscollins;TRUE;LTL;761
+3958;point_to_point;nikzz3;TRUE;LTL;761
+3959;point_to_point;harleywallace;TRUE;LTL;761
+3960;point_to_point;coopermitchell;TRUE;LTL;761
+3961;point_to_point;eriknicholson;TRUE;LTL;761
+3962;point_to_point;banister-stransport;TRUE;LTL;761
+3963;point_to_point;patti-splace;TRUE;LTL;761
+3964;point_to_point;eduardbarnes;TRUE;LTL;761
+3965;point_to_point;nikzz4;TRUE;LTL;761
+3966;point_to_point;olivertestmarch2020;TRUE;LTL;761
+3967;point_to_point;techhausid;TRUE;LTL;761
+3968;point_to_point;ljcexpress;TRUE;LTL;761
+3969;point_to_point;muko;TRUE;LTL;761
+3970;point_to_point;rslogisticscopteltd;TRUE;LTL;761
+3971;point_to_point;back2backfreight;TRUE;LTL;761
+3972;point_to_point;user;TRUE;LTL;761
+3973;point_to_point;test1903;TRUE;LTL;761
+3974;point_to_point;geetha19marchblitzlive;TRUE;LTL;761
+3975;point_to_point;geethablitz19march_02live;TRUE;LTL;761
+3976;point_to_point;actl;TRUE;LTL;761
+3977;point_to_point;transol;TRUE;LTL;761
+3979;point_to_point;eventhireservices;TRUE;LTL;761
+3980;point_to_point;agtrix;TRUE;LTL;761
+3981;point_to_point;covid19;TRUE;LTL;761
+3982;point_to_point;mathanatrading;TRUE;LTL;761
+3983;point_to_point;iptech;TRUE;LTL;761
+3984;point_to_point;flexion;TRUE;LTL;761
+3985;point_to_point;cambraycheese;TRUE;LTL;761
+4288;point_to_point;elwell;TRUE;LTL;761
+4289;point_to_point;abddddd;TRUE;LTL;761
+4290;point_to_point;congau134;TRUE;LTL;761
+4291;point_to_point;na;TRUE;LTL;761
+4292;point_to_point;drobo;TRUE;LTL;761
+4293;point_to_point;littlekid;TRUE;LTL;761
+4294;point_to_point;dandypartnership;TRUE;LTL;761
+4295;point_to_point;mofochili;TRUE;LTL;761
+4296;point_to_point;fruit2work;TRUE;LTL;761
+4297;point_to_point;hnjp;TRUE;LTL;761
+4299;point_to_point;thesubtleloveco;TRUE;LTL;761
+4304;point_to_point;planetrise;TRUE;LTL;761
+4306;point_to_point;jeremy;TRUE;LTL;761
+4307;point_to_point;oasisseafood-western;TRUE;LTL;761
+4308;point_to_point;rishu;TRUE;LTL;761
+4309;point_to_point;wlvisiondelightsdnbhd;TRUE;LTL;761
+4310;point_to_point;wc;TRUE;LTL;761
+4311;point_to_point;ebb-flowgroup;TRUE;LTL;761
+4312;point_to_point;comma;TRUE;LTL;761
+4313;point_to_point;changitravelservicespteltd;TRUE;LTL;761
+4314;point_to_point;tbinc;TRUE;LTL;761
+4315;point_to_point;dispatchservices;TRUE;LTL;761
+4443;point_to_point;jscsb;TRUE;LTL;761
+4316;point_to_point;redjasperholdings;TRUE;LTL;761
+4317;point_to_point;shenzhoudadifood-beveragesgroupsdnbhd;TRUE;LTL;761
+4318;point_to_point;anan;TRUE;LTL;761
+4319;point_to_point;sophie;TRUE;LTL;761
+4320;point_to_point;ad-scafeburgerbar-mixedgrill;TRUE;LTL;761
+4321;point_to_point;hasral;TRUE;LTL;761
+4323;point_to_point;nocompany;TRUE;LTL;761
+4324;point_to_point;ttme;TRUE;LTL;761
+4325;point_to_point;1974;TRUE;LTL;761
+4326;point_to_point;selectcouriersptyltd;TRUE;LTL;761
+4327;point_to_point;geetha-report-ongoing;TRUE;LTL;761
+4328;point_to_point;digitaltransformationllc;TRUE;LTL;761
+4329;point_to_point;preoday;TRUE;LTL;761
+4330;point_to_point;iam;TRUE;LTL;761
+4331;point_to_point;icargo;TRUE;LTL;761
+4332;point_to_point;tipple;TRUE;LTL;761
+4334;point_to_point;dgbnetworkssdnbhd;TRUE;LTL;761
+4335;point_to_point;infiniteexpresspteltd;TRUE;LTL;761
+4336;point_to_point;arklifedistributorspteltd;TRUE;LTL;761
+4337;point_to_point;d-eventzcreations;TRUE;LTL;761
+4338;point_to_point;xemgraver;TRUE;LTL;761
+4339;point_to_point;easy;TRUE;LTL;761
+4340;point_to_point;blairjenkins;TRUE;LTL;761
+4341;point_to_point;nfterraresource;TRUE;LTL;761
+4342;point_to_point;seoulexpressrestaurantgroupptyltd;TRUE;LTL;761
+4343;point_to_point;yusenlogistics;TRUE;LTL;761
+4344;point_to_point;wegym;TRUE;LTL;761
+4345;point_to_point;skateshank;TRUE;LTL;761
+4346;point_to_point;eloquent;TRUE;LTL;761
+4347;point_to_point;totgroup;TRUE;LTL;761
+4348;point_to_point;primetechnologypteltd;TRUE;LTL;761
+4349;point_to_point;wta;TRUE;LTL;761
+4350;point_to_point;subzsuits;TRUE;LTL;761
+4351;point_to_point;akibacanberraptyltd;TRUE;LTL;761
+4352;point_to_point;elly;TRUE;LTL;761
+4357;point_to_point;one42;TRUE;LTL;761
+4358;point_to_point;alfiantexttrucks;TRUE;LTL;761
+4359;point_to_point;mollieandgeorgeptyltd;TRUE;LTL;761
+4360;point_to_point;besttrack;TRUE;LTL;761
+4361;point_to_point;doctoranywhere;TRUE;LTL;761
+4362;point_to_point;east33;TRUE;LTL;761
+4363;point_to_point;shopeee;TRUE;LTL;761
+4364;point_to_point;bigbrandpteltd;TRUE;LTL;761
+4365;point_to_point;leverark;TRUE;LTL;761
+4366;point_to_point;infinitetransports;TRUE;LTL;761
+4367;point_to_point;hartwigair;TRUE;LTL;761
+4368;point_to_point;kleekgroupsdnbhd;TRUE;LTL;761
+4369;point_to_point;bobo-bopstransport;TRUE;LTL;761
+4370;point_to_point;kobeshipping-forwardingagencies;TRUE;LTL;761
+4371;point_to_point;proallianceinternational;TRUE;LTL;761
+4372;point_to_point;hdt;TRUE;LTL;761
+4373;point_to_point;ninja;TRUE;LTL;761
+4374;point_to_point;annabel;TRUE;LTL;761
+3986;point_to_point;thegardenfoodindustriesplt;TRUE;LTL;761
+3987;point_to_point;yourushourdeliveryllp;TRUE;LTL;761
+4446;point_to_point;genesislogistics;TRUE;LTL;761
+4447;point_to_point;transform;TRUE;LTL;761
+4448;point_to_point;bls;TRUE;LTL;761
+4449;point_to_point;eazyware;TRUE;LTL;761
+4450;point_to_point;jetexpress;TRUE;LTL;761
+4451;point_to_point;unitedautotradingpteltd;TRUE;LTL;761
+4452;point_to_point;simyewenterprisesdnbhd;TRUE;LTL;761
+4453;point_to_point;litexp;TRUE;LTL;761
+4454;point_to_point;gpslands-m-sdnbhd;TRUE;LTL;761
+4455;point_to_point;zoomservices;TRUE;LTL;761
+4456;point_to_point;eastcoasttransportandremovals;TRUE;LTL;761
+4457;point_to_point;battery4usdnbhd;TRUE;LTL;761
+4458;point_to_point;wordstream;TRUE;LTL;761
+4459;point_to_point;testrrrrrrrrr;TRUE;LTL;761
+4460;point_to_point;speedpropteltd;TRUE;LTL;761
+4461;point_to_point;eaglecitygroupsdnbhd;TRUE;LTL;761
+4462;point_to_point;haiqal;TRUE;LTL;761
+4463;point_to_point;vx;TRUE;LTL;761
+4464;point_to_point;belindap;TRUE;LTL;761
+4465;point_to_point;speckledspace;TRUE;LTL;761
+4466;point_to_point;tottransport;TRUE;LTL;761
+4467;point_to_point;comercioidealpteltd;TRUE;LTL;761
+4468;point_to_point;sugan;TRUE;LTL;761
+4469;point_to_point;okwherelogistics;TRUE;LTL;761
+4470;point_to_point;ep;TRUE;LTL;761
+4471;point_to_point;3dayslogisticspteltd;TRUE;LTL;761
+4472;point_to_point;theviswagroup;TRUE;LTL;761
+4473;point_to_point;daveystreetdiscountpharmacy;TRUE;LTL;761
+4474;point_to_point;testingkn;TRUE;LTL;761
+4475;point_to_point;billslogisticsolutionsdnbhd;TRUE;LTL;761
+4476;point_to_point;themiddlemenservices;TRUE;LTL;761
+4477;point_to_point;cwf;TRUE;LTL;761
+4478;point_to_point;quikerlydeliveryservices;TRUE;LTL;761
+4479;point_to_point;schneiderelectric;TRUE;LTL;761
+4376;point_to_point;jattbros;TRUE;LTL;761
+4377;point_to_point;vivian;TRUE;LTL;761
+4480;point_to_point;eshhenlogistics;TRUE;LTL;761
+4481;point_to_point;goodcycles2;TRUE;LTL;761
+4482;point_to_point;bringjoy;TRUE;LTL;761
+4483;point_to_point;benworth;TRUE;LTL;761
+4484;point_to_point;visualdesignssg;TRUE;LTL;761
+4485;point_to_point;buy4upteltd;TRUE;LTL;761
+4486;point_to_point;jax;TRUE;LTL;761
+4487;point_to_point;jax-sg;TRUE;LTL;761
+4488;point_to_point;inchziotsdnbhd;TRUE;LTL;761
+4489;point_to_point;rach;TRUE;LTL;761
+4490;point_to_point;2menlogisticspteltd;TRUE;LTL;761
+4491;point_to_point;testr;TRUE;LTL;761
+4492;point_to_point;testr123;TRUE;LTL;761
+4493;point_to_point;gsporttyresptyltd;TRUE;LTL;761
+4494;point_to_point;ausipulselogistics;TRUE;LTL;761
+4495;point_to_point;reachussoon;TRUE;LTL;761
+4496;point_to_point;microboss;TRUE;LTL;761
+4497;point_to_point;scalelogistics;TRUE;LTL;761
+4498;point_to_point;fountaintechnologiespte-ltd;TRUE;LTL;761
+4499;point_to_point;myfreight;TRUE;LTL;761
+4973;point_to_point;panjangkee;TRUE;LTL;761
+3520;point_to_point;ourdeliveryhub;TRUE;LTL;761
+4175;point_to_point;knsb;TRUE;LTL;761
+4012;point_to_point;sassafraslogisticsconsultancyservices;TRUE;LTL;761
+4014;point_to_point;rajanexpresstest;TRUE;LTL;761
+4020;point_to_point;fz;TRUE;LTL;761
+4024;point_to_point;yojeemarketing;TRUE;LTL;761
+4083;point_to_point;solarrun;TRUE;LTL;761
+4026;point_to_point;jattlogisticsptyltd;TRUE;LTL;761
+4030;point_to_point;sandstone;TRUE;LTL;761
+4032;point_to_point;westcoastkalgoorlieexpress;TRUE;LTL;761
+4034;point_to_point;octtavawines;TRUE;LTL;761
+4038;point_to_point;kn-th;TRUE;LTL;761
+3522;point_to_point;maersk;TRUE;LTL;761
+4048;point_to_point;testcreate;TRUE;LTL;761
+4085;point_to_point;testcreate2;TRUE;LTL;761
+4052;point_to_point;testlistview;TRUE;LTL;761
+4054;point_to_point;theosg;TRUE;LTL;761
+4056;point_to_point;testblitz2111;TRUE;LTL;761
+4087;point_to_point;testblitz211133;TRUE;LTL;761
+4177;point_to_point;yojee333333222;TRUE;LTL;761
+3550;point_to_point;yojee333333222333;TRUE;LTL;761
+4058;point_to_point;knglobal;TRUE;LTL;761
+4666;point_to_point;yojeeglobal;TRUE;LTL;761
+4062;point_to_point;theatistraders;TRUE;LTL;761
+4064;point_to_point;mephisto;TRUE;LTL;761
+4068;point_to_point;project70-coreytest;TRUE;LTL;761
+4070;point_to_point;geetha_tester_partner_2;TRUE;LTL;761
+3529;point_to_point;geetha_tester_partner_1;TRUE;LTL;761
+3577;point_to_point;company_partner_name;TRUE;LTL;761
+4092;point_to_point;test-enterprise-1;TRUE;LTL;761
+3533;point_to_point;test-enterprise2;TRUE;LTL;761
+3535;point_to_point;geetha_partner_for_enterprise_1;TRUE;LTL;761
+4096;point_to_point;maersk-th;TRUE;LTL;761
+4162;point_to_point;kvc;TRUE;LTL;761
+4099;point_to_point;geodis-road-management;TRUE;LTL;761
+3537;point_to_point;cbg;TRUE;LTL;761
+4181;point_to_point;test-p70;TRUE;LTL;761
+4101;point_to_point;trustlog;TRUE;LTL;761
+3539;point_to_point;eyrraaa;TRUE;LTL;761
+3540;point_to_point;geetha_live_invite_partner;TRUE;LTL;761
+3544;point_to_point;yojeejames;TRUE;LTL;761
+4018;point_to_point;wsi;TRUE;LTL;761
+3553;point_to_point;geetha_partner_invite_x;TRUE;LTL;761
+3555;point_to_point;maersk-my;TRUE;LTL;761
+3546;point_to_point;partner_my1;TRUE;LTL;761
+4300;point_to_point;abc_haulier;TRUE;LTL;761
+4427;point_to_point;tlm;TRUE;LTL;761
+3560;point_to_point;progress;TRUE;LTL;761
+3562;point_to_point;vdk_transport;TRUE;LTL;761
+3564;point_to_point;mts;TRUE;LTL;761
+4428;point_to_point;pcontrol_logistics_coltd;TRUE;LTL;761
+4673;point_to_point;changthai_supply_2002_ltd;TRUE;LTL;761
+4675;point_to_point;fartimi_hauliage;TRUE;LTL;761
+4677;point_to_point;ezyhual_transport_coltd;TRUE;LTL;761
+4679;point_to_point;april_haulage;TRUE;LTL;761
+4681;point_to_point;affandi;TRUE;LTL;761
+3568;point_to_point;live_partner_3;TRUE;LTL;761
+4685;point_to_point;ndd_international_thailand_ltd;TRUE;LTL;761
+4687;point_to_point;merlex_transport_coltd;TRUE;LTL;761
+4689;point_to_point;azuma_transport_services_thailand_coltd;TRUE;LTL;761
+4691;point_to_point;newborn_transport_coltd;TRUE;LTL;761
+3570;point_to_point;siam_shoreside_coltd;TRUE;LTL;761
+3572;point_to_point;city_zone_express_coltd;TRUE;LTL;761
+3574;point_to_point;chonburian_coltd;TRUE;LTL;761
+3576;point_to_point;mahaporn_transport_coltd;TRUE;LTL;761
+3579;point_to_point;stuart;TRUE;LTL;761
+4693;point_to_point;narita_shipping_transport_sdn_bhd;TRUE;LTL;761
+4697;point_to_point;wheels_on_wheels_coltd;TRUE;LTL;761
+3581;point_to_point;lai_haulage;TRUE;LTL;761
+4702;point_to_point;stuart_logistic;TRUE;LTL;761
+4704;point_to_point;rantau_panjang_haulage_sdn_bhd_rph;TRUE;LTL;761
+4706;point_to_point;mon_logistics_group;TRUE;LTL;761
+4708;point_to_point;maersk-id;TRUE;LTL;761
+4710;point_to_point;hub_distributors;TRUE;LTL;761
+3586;point_to_point;company_partner_2;TRUE;LTL;761
+4714;point_to_point;1;TRUE;LTL;761
+4716;point_to_point;rj_logistics_coltd;TRUE;LTL;761
+4718;point_to_point;itx_transport_coltd;TRUE;LTL;761
+4720;point_to_point;thai_reefer_group;TRUE;LTL;761
+4725;point_to_point;geetha_autoaccept;TRUE;LTL;761
+4727;point_to_point;hermes_logistics_service_coltd;TRUE;LTL;761
+4729;point_to_point;allied_container_services_pte_ltd;TRUE;LTL;761
+4731;point_to_point;nissei_logistics_coltd;TRUE;LTL;761
+4735;point_to_point;innovation_company;TRUE;LTL;761
+4743;point_to_point;geetha-trail;TRUE;LTL;761
+4747;point_to_point;yangkee;TRUE;LTL;761
+4749;point_to_point;pertiwi_sejagat;TRUE;LTL;761
+4760;point_to_point;samudera_perdana;TRUE;LTL;761
+4762;point_to_point;monang_sianipar_abadi;TRUE;LTL;761
+4764;point_to_point;mblog;TRUE;LTL;761
+4766;point_to_point;mtkonsurabaya;TRUE;LTL;761
+4768;point_to_point;global_bahtera_logistik;TRUE;LTL;761
+4772;point_to_point;galaxi;TRUE;LTL;761
+4774;point_to_point;kingstone;TRUE;LTL;761
+3588;point_to_point;pos_logistics;TRUE;LTL;761
+3590;point_to_point;testpartnerjackie;TRUE;LTL;761
+4780;point_to_point;panumas_transport_coltd;TRUE;LTL;761
+4790;point_to_point;abcsub;TRUE;LTL;761
+4792;point_to_point;pancaran_darat_transport;TRUE;LTL;761
+4794;point_to_point;pt_logol_jakarta_mitraindo;TRUE;LTL;761
+4796;point_to_point;hacaca;TRUE;LTL;761
+4798;point_to_point;pt_logistik_pintar_indonesia;TRUE;LTL;761
+3592;point_to_point;marcos_trans;TRUE;LTL;761
+4189;point_to_point;tamari;TRUE;LTL;761
+3594;point_to_point;ptdia;TRUE;LTL;761
+3598;point_to_point;partner_101;TRUE;LTL;761
+4800;point_to_point;partner_103;TRUE;LTL;761
+4801;point_to_point;safe_logistics_coltd;TRUE;LTL;761
+4803;point_to_point;test_welcome_dispatcher;TRUE;LTL;761
+4805;point_to_point;megastar;TRUE;LTL;761
+4807;point_to_point;kamadjaja_logistik;TRUE;LTL;761
+4809;point_to_point;seaconterminal;TRUE;LTL;761
+4811;point_to_point;mk_logistic;TRUE;LTL;761
+4813;point_to_point;energy_logistics;TRUE;LTL;761
+4815;point_to_point;ife;TRUE;LTL;761
+4817;point_to_point;glog;TRUE;LTL;761
+4819;point_to_point;hacaca_surabaya;TRUE;LTL;761
+4821;point_to_point;geetha_test_container_number_partner;TRUE;LTL;761
+4823;point_to_point;pt_vita_kumala_jaya;TRUE;LTL;761
+4825;point_to_point;ptxpresindo;TRUE;LTL;761
+4827;point_to_point;testing-maersk-th;TRUE;LTL;761
+4829;point_to_point;resolutions;TRUE;LTL;761
+4831;point_to_point;pacific_express;TRUE;LTL;761
+4833;point_to_point;geetha_container_tester;TRUE;LTL;761
+4835;point_to_point;cti_logistics_coltd;TRUE;LTL;761
+4837;point_to_point;knlmtesting;TRUE;LTL;761
+4839;point_to_point;lai_pad_korn_co_ltd;TRUE;LTL;761
+4841;point_to_point;catur_wibawa_indoekspres;TRUE;LTL;761
+4843;point_to_point;javana;TRUE;LTL;761
+4847;point_to_point;tangguh_logistindo;TRUE;LTL;761
+4849;point_to_point;nextgen_logistics_co_ltd;TRUE;LTL;761
+4851;point_to_point;knlazada_cs;TRUE;LTL;761
+4853;point_to_point;sb_logistics_coltd;TRUE;LTL;761
+4855;point_to_point;rtn_logistics_co_ltd;TRUE;LTL;761
+4857;point_to_point;chetpitak_transport_coltd;TRUE;LTL;761
+4859;point_to_point;ratchasi_transport_coltd;TRUE;LTL;761
+4861;point_to_point;yojeeau;TRUE;LTL;761
+4863;point_to_point;mrich_equipment_management_coltd;TRUE;LTL;761
+6834;point_to_point;nikpol;TRUE;LTL;761
+4867;point_to_point;ml_downstream1;TRUE;LTL;761
+4869;point_to_point;amazon;TRUE;LTL;761
+4040;point_to_point;knproddemo;TRUE;LTL;761
+4872;point_to_point;subthanakrit_transport_coltd;TRUE;LTL;761
+4874;point_to_point;airoceanic_express_sdn_bhd;TRUE;LTL;761
+4876;point_to_point;pt_damco_warehousing_indonesia;TRUE;LTL;761
+4879;point_to_point;aditestcorp;TRUE;LTL;761
+4883;point_to_point;sarana_agung_mulia_setia;TRUE;LTL;761
+4885;point_to_point;cikarang_inland_port;TRUE;LTL;761
+4887;point_to_point;gadgetseller;TRUE;LTL;761
+4889;point_to_point;open_food_partner;TRUE;LTL;761
+4891;point_to_point;pt_genesis_cikarang_whs;TRUE;LTL;761
+4893;point_to_point;seacon_surabaya;TRUE;LTL;761
+4895;point_to_point;pt_maju_trans_abadi;TRUE;LTL;761
+4897;point_to_point;pt_belawan_indah;TRUE;LTL;761
+4899;point_to_point;gautamtestco;TRUE;LTL;761
+4901;point_to_point;partner_name_2;TRUE;LTL;761
+4903;point_to_point;integrated_cold_chain_logistics_sdn_bhd;TRUE;LTL;761
+4905;point_to_point;misctest;TRUE;LTL;761
+4907;point_to_point;renovationkingdom;TRUE;LTL;761
+4909;point_to_point;jason_downstream;TRUE;LTL;761
+4911;point_to_point;companynametest;TRUE;LTL;761
+4917;point_to_point;cdr_trucking;TRUE;LTL;761
+4919;point_to_point;ina_corp;TRUE;LTL;761
+4970;point_to_point;ml_downstream_test_2;TRUE;LTL;761
+4972;point_to_point;ml_downstream_test_1;TRUE;LTL;761
+4922;point_to_point;sonic_interfrieght_plc;TRUE;LTL;761
+3600;point_to_point;rajabovorn_international_2004_co_ltd;TRUE;LTL;761
+3602;point_to_point;test_dashboards;TRUE;LTL;761
+3604;point_to_point;geetha_test_password;TRUE;LTL;761
+3606;point_to_point;qainvitedpartner;TRUE;LTL;761
+3607;point_to_point;banglamung_transport_ltd_part;TRUE;LTL;761
+4214;point_to_point;whale_point_one_coltd;TRUE;LTL;761
+3610;point_to_point;all_trans_inter_logistics_coltd;TRUE;LTL;761
+3614;point_to_point;great_transport_service_co_ltd;TRUE;LTL;761
+3616;point_to_point;vs;TRUE;LTL;761
+3618;point_to_point;testsend;TRUE;LTL;761
+3620;point_to_point;cpro_freight_co_ltd;TRUE;LTL;761
+3622;point_to_point;nakorn898transport_co_ltd;TRUE;LTL;761
+3624;point_to_point;jason_downstream_2;TRUE;LTL;761
+3626;point_to_point;stuart_hualage;TRUE;LTL;761
+3628;point_to_point;geetha_test_withdrew;TRUE;LTL;761
+3630;point_to_point;testsend2;TRUE;LTL;761
+4396;point_to_point;mltransport;TRUE;LTL;761
+4434;point_to_point;mlcourier;TRUE;LTL;761
+4924;point_to_point;lee_ting_san;TRUE;LTL;761
+4930;point_to_point;pt_kencana_pesaka_abadi;TRUE;LTL;761
+5763;point_to_point;tester_partner_test;TRUE;LTL;761
+3493;point_to_point;deploymenttest;TRUE;LTL;761
+3491;point_to_point;kfs_shipping;TRUE;LTL;761
+5796;point_to_point;pdrw999_service_part;TRUE;LTL;761
+5823;point_to_point;beyondexpress;TRUE;LTL;761
+5824;point_to_point;mfm;TRUE;LTL;761
+5827;point_to_point;tong_container;TRUE;LTL;761
+3486;point_to_point;maersk-vn;TRUE;LTL;761
+3478;point_to_point;maersk-vn-test;TRUE;LTL;761
+3479;point_to_point;jason_vietnam_ds;TRUE;LTL;761
+4017;point_to_point;lintas_niaga_jaya;TRUE;LTL;761
+3468;point_to_point;ceva-sg;TRUE;LTL;761
+3464;point_to_point;ceva-sg-test;TRUE;LTL;761
+3462;point_to_point;ailing_test;TRUE;LTL;761
+3460;point_to_point;kn-th-test;TRUE;LTL;761
+4075;point_to_point;lintas_niaga_jaya_jakarta;TRUE;LTL;761
+7295;point_to_point;michaeltest;TRUE;LTL;761
+4077;point_to_point;pulau_nusantara;TRUE;LTL;761
+4114;point_to_point;tritunggal;TRUE;LTL;761
+3452;point_to_point;markloontest;TRUE;LTL;761
+3450;point_to_point;BryanGaddiTest;TRUE;LTL;761
+4079;point_to_point;asl;TRUE;LTL;761
+4081;point_to_point;bumi_wijaya_indorail;TRUE;LTL;761
+4104;point_to_point;geetha_url_partner;TRUE;LTL;761
+4107;point_to_point;ceva_rapid;TRUE;LTL;761
+3448;point_to_point;efm-demo;TRUE;LTL;761
+3480;point_to_point;gek;TRUE;LTL;761
+3476;point_to_point;ka3;TRUE;LTL;761
+3475;point_to_point;manh;TRUE;LTL;761
+3477;point_to_point;hd_links;TRUE;LTL;761
+3488;point_to_point;hdlinks_logistics_service_company_limited;TRUE;LTL;761
+4193;point_to_point;test_partner_cti;TRUE;LTL;761
+3487;point_to_point;dai_quoc_viet;TRUE;LTL;761
+3438;point_to_point;geodis-th;TRUE;LTL;761
+3485;point_to_point;kioway;TRUE;LTL;761
+3434;point_to_point;kn-tr;TRUE;LTL;761
+3432;point_to_point;yojee-tester-company;TRUE;LTL;761
+3430;point_to_point;yojee-tester-01;TRUE;LTL;761
+4044;point_to_point;test_system;TRUE;LTL;761
+4045;point_to_point;tony_partner;TRUE;LTL;761
+4135;point_to_point;kornwi_logistics_coltd;TRUE;LTL;761
+3428;point_to_point;jackie_feature_config;TRUE;LTL;761
+3437;point_to_point;chai_transport_ltd;TRUE;LTL;761
+3426;point_to_point;geodis-my;TRUE;LTL;761
+5782;point_to_point;manual_planing;TRUE;LTL;761
+5725;point_to_point;maersk-kh;TRUE;LTL;761
+5723;point_to_point;maersk-mm;TRUE;LTL;761
+5721;point_to_point;testcraig;TRUE;LTL;761
+5784;point_to_point;pt_enersia_permata_abadi;TRUE;LTL;761
+5747;point_to_point;slp_log;TRUE;LTL;761
+5759;point_to_point;damco_co_ltd;TRUE;LTL;761
+5744;point_to_point;ifl_infinia;TRUE;LTL;761
+5715;point_to_point;geodis-vn2;TRUE;LTL;761
+5713;point_to_point;geodis-vn3;TRUE;LTL;761
+5711;point_to_point;geodis-vn4;TRUE;LTL;761
+5751;point_to_point;bayulogistik;TRUE;LTL;761
+5709;point_to_point;test_au_melbourne;TRUE;LTL;761
+5780;point_to_point;test_doc;TRUE;LTL;761
+5746;point_to_point;td_transport;TRUE;LTL;761
+5830;point_to_point;pacific_trans_pte_ltd;TRUE;LTL;761
+5828;point_to_point;pt_cipta_abadi_jaya_trans;TRUE;LTL;761
+5817;point_to_point;nky;TRUE;LTL;761
+5745;point_to_point;biogreen;TRUE;LTL;761
+5749;point_to_point;ask88;TRUE;LTL;761
+5816;point_to_point;pt_bimaruna_jaya;TRUE;LTL;761
+5750;point_to_point;visions_transport;TRUE;LTL;761
+5748;point_to_point;mpms;TRUE;LTL;761
+5703;point_to_point;airstep;TRUE;LTL;761
+5693;point_to_point;ceva-my;TRUE;LTL;761
+5812;point_to_point;pt_karya_putra_ardini;TRUE;LTL;761
+5810;point_to_point;whatfix_partner;TRUE;LTL;761
+5794;point_to_point;pt_inesia_kargotama_indonesia;TRUE;LTL;761
+5677;point_to_point;yojeedemo;TRUE;LTL;761
+5788;point_to_point;partner_2022;TRUE;LTL;761
+5768;point_to_point;ml_express;TRUE;LTL;761
+5675;point_to_point;maersk-my-cl;TRUE;LTL;761
+5770;point_to_point;kargo_tech;TRUE;LTL;761
+5730;point_to_point;whatfix;TRUE;LTL;761
+5733;point_to_point;wfx;TRUE;LTL;761
+5671;point_to_point;test-qa-upstream;TRUE;LTL;761
+5669;point_to_point;vallen-sg;TRUE;LTL;761
+5762;point_to_point;hacaca_semarang;TRUE;LTL;761
+5667;point_to_point;starter__package_sample;TRUE;LTL;761
+5655;point_to_point;jasonyeoh-ph;TRUE;LTL;761
+5814;point_to_point;tong_containers;TRUE;LTL;761
+5696;point_to_point;demo_partner;TRUE;LTL;761
+5808;point_to_point;pickupp;TRUE;LTL;761
+5800;point_to_point;partner_2022a;TRUE;LTL;761
+5790;point_to_point;azlena;TRUE;LTL;761
+5765;point_to_point;ceva_partner;TRUE;LTL;761
+5649;point_to_point;geodis-vn;TRUE;LTL;761
+5645;point_to_point;app;TRUE;LTL;761
+5664;point_to_point;2pl_sg_haulier_dd;TRUE;LTL;761
+5662;point_to_point;2pl_sg_haulier_cc;TRUE;LTL;761
+5663;point_to_point;2pl_sg_haulier_aa;TRUE;LTL;761
+5665;point_to_point;2pl_sg_haulier_bb;TRUE;LTL;761
+5643;point_to_point;app_test_partner;TRUE;LTL;761
+5831;point_to_point;tr_partner;TRUE;LTL;761
+5650;point_to_point;jing_hoi_logistics;TRUE;LTL;761
+5651;point_to_point;ka_logistics;TRUE;LTL;761
+5635;point_to_point;partnerpartner;TRUE;LTL;761
+5773;point_to_point;partner_z;TRUE;LTL;761
+5775;point_to_point;partner_melb;TRUE;LTL;761
+5631;point_to_point;qa-company-partner;TRUE;LTL;761
+5776;point_to_point;check_sen_prod;TRUE;LTL;761
+5779;point_to_point;pt_lintas_samudera_jaya;TRUE;LTL;761
+5629;point_to_point;globalandelitetestpackage;TRUE;LTL;761
+5787;point_to_point;optimisation_partner;TRUE;LTL;761
+5754;point_to_point;sta_coloma;TRUE;LTL;761
+5793;point_to_point;winning_group_partner;TRUE;LTL;761
+5623;point_to_point;geetha-enterprise1;TRUE;LTL;761
+5619;point_to_point;qa-enterprise1;TRUE;LTL;761
+5699;point_to_point;jasmine_logistics;TRUE;LTL;761
+5803;point_to_point;tanjong_express;TRUE;LTL;761
+5644;point_to_point;doni_test_partner;TRUE;LTL;761
+5698;point_to_point;rubayyi_logistics;TRUE;LTL;761
+5697;point_to_point;mizah_logistics;TRUE;LTL;761
+5695;point_to_point;one_third;TRUE;LTL;761
+5694;point_to_point;upnload;TRUE;LTL;761
+5691;point_to_point;integrated_cold_chain_logistics;TRUE;LTL;761
+5692;point_to_point;doe_penang_express_logistics;TRUE;LTL;761
+5617;point_to_point;qa-old-new;TRUE;LTL;761
+5943;point_to_point;cjcentury;TRUE;LTL;761
+6002;point_to_point;ngaiheng;TRUE;LTL;761
+6023;point_to_point;geodis_sg_trial;TRUE;LTL;761
+6084;point_to_point;yojee_certification_whatfix;TRUE;LTL;761
+6148;point_to_point;shopify-test;TRUE;LTL;761
+6171;point_to_point;ilyatest;TRUE;LTL;761
+6206;point_to_point;jasonyeoh;TRUE;LTL;761
+6234;point_to_point;aveon;TRUE;LTL;761
+6261;point_to_point;cateringproject;TRUE;LTL;761
+6353;point_to_point;darrendemo;TRUE;LTL;761
+6371;point_to_point;linges;TRUE;LTL;761
+6386;point_to_point;vivien-jp;TRUE;LTL;761
+6393;point_to_point;woocommerce-test;TRUE;LTL;761
+6488;point_to_point;ceva_my_test;TRUE;LTL;761
+6632;point_to_point;hawktest;TRUE;LTL;761
+6660;point_to_point;tollgroup-sg;TRUE;LTL;761
+6733;point_to_point;exl-test-company;TRUE;LTL;761
+7346;point_to_point;cameron_test;TRUE;LTL;761
+7084;point_to_point;jandjlogistics;TRUE;LTL;761
+7120;point_to_point;jasonyeoh-id;TRUE;LTL;761
+7382;point_to_point;handelgroup;TRUE;LTL;761
+7200;point_to_point;nina-test-partner;TRUE;LTL;761
+7287;point_to_point;nina-enterprise;TRUE;LTL;761
+7302;point_to_point;translations-nina;TRUE;LTL;761
+7355;point_to_point;durga_test;TRUE;LTL;761
+3384;LTL Single Leg;yojee-tester-company;TRUE;LTL;69
+3391;LTL Single Leg;yojee-tester-01;TRUE;LTL;69
+3403;LTL Single Leg;jackie_feature_config;TRUE;LTL;69
+3410;LTL Single Leg;geodis-my;TRUE;LTL;69
+5060;LTL Single Leg;maersk-kh;TRUE;LTL;69
+5065;LTL Single Leg;maersk-mm;TRUE;LTL;69
+5070;LTL Single Leg;testcraig;TRUE;LTL;69
+5093;LTL Single Leg;geodis-vn2;TRUE;LTL;69
+5098;LTL Single Leg;geodis-vn3;TRUE;LTL;69
+5103;LTL Single Leg;geodis-vn4;TRUE;LTL;69
+5110;LTL Single Leg;test_au_melbourne;TRUE;LTL;69
+6139;LTL Single Leg;airstep;FALSE;LTL;69
+5321;LTL Single Leg;ceva-my;FALSE;LTL;69
+5219;LTL Single Leg;yojeedemo;TRUE;LTL;69
+5221;LTL Single Leg;maersk-my-cl;FALSE;LTL;69
+7283;LTL Single Leg;qa-test;TRUE;LTL;69
+6998;LTL Single Leg;test-qa-upstream;TRUE;LTL;69
+5271;LTL Single Leg;starter__package_sample;TRUE;LTL;69
+5309;LTL Single Leg;vivien;FALSE;LTL;69
+6348;LTL Single Leg;jasonyeoh-ph;TRUE;LTL;69
+5353;LTL Single Leg;geodis-vn;TRUE;LTL;69
+5486;LTL Single Leg;app;FALSE;LTL;69
+5415;LTL Single Leg;partnerpartner;TRUE;LTL;69
+5542;LTL Single Leg;qa-company-partner;TRUE;LTL;69
+5448;LTL Single Leg;globalandelitetestpackage;TRUE;LTL;69
+5528;LTL Single Leg;geetha-enterprise1;TRUE;LTL;69
+5538;LTL Single Leg;qa-enterprise1;TRUE;LTL;69
+5613;LTL Single Leg;qa-old-new;TRUE;LTL;69
+5863;LTL Single Leg;quick-cross-marketing;TRUE;LTL;69
+5873;LTL Single Leg;lgssolutions;TRUE;LTL;69
+6030;LTL Single Leg;centurypacific;TRUE;LTL;69
+5900;LTL Single Leg;saftest;TRUE;LTL;69
+5962;LTL Single Leg;cjcentury;FALSE;LTL;69
+6005;LTL Single Leg;ngaiheng;TRUE;LTL;69
+6026;LTL Single Leg;geodis_sg_trial;TRUE;LTL;69
+6087;LTL Single Leg;yojee_certification_whatfix;TRUE;LTL;69
+6151;LTL Single Leg;shopify-test;TRUE;LTL;69
+6174;LTL Single Leg;ilyatest;TRUE;LTL;69
+7065;LTL Single Leg;jasonyeoh;FALSE;LTL;69
+6316;LTL Single Leg;aveon;TRUE;LTL;69
+6367;LTL Single Leg;cateringproject;FALSE;LTL;69
+6356;LTL Single Leg;darrendemo;TRUE;LTL;69
+6374;LTL Single Leg;linges;TRUE;LTL;69
+6389;LTL Single Leg;vivien-jp;TRUE;LTL;69
+6396;LTL Single Leg;woocommerce-test;TRUE;LTL;69
+6510;LTL Single Leg;ceva_my_test;FALSE;LTL;69
+6867;LTL Single Leg;nhbs;FALSE;LTL;69
+6635;LTL Single Leg;hawktest;TRUE;LTL;69
+6663;LTL Single Leg;tollgroup-sg;TRUE;LTL;69
+6923;LTL Single Leg;hgr;FALSE;LTL;69
+6942;LTL Single Leg;mnx;FALSE;LTL;69
+6736;LTL Single Leg;exl-test-company;TRUE;LTL;69
+7117;LTL Single Leg;cameron_test;TRUE;LTL;69
+7106;LTL Single Leg;maersk-sg-2;TRUE;LTL;69
+7087;LTL Single Leg;jandjlogistics;TRUE;LTL;69
+7123;LTL Single Leg;jasonyeoh-id;TRUE;LTL;69
+7132;LTL Single Leg;handelgroup;TRUE;LTL;69
+7203;LTL Single Leg;nina-test-partner;TRUE;LTL;69
+7290;LTL Single Leg;nina-enterprise;TRUE;LTL;69
+7305;LTL Single Leg;translations-nina;TRUE;LTL;69
+7358;LTL Single Leg;durga_test;TRUE;LTL;69
+7419;LTL Single Leg;nina-test;TRUE;LTL;69
+7489;LTL Single Leg;test-partner-wednesday;TRUE;LTL;69
+7496;LTL Single Leg;test-357-empire;TRUE;LTL;69
+7503;LTL Single Leg;dashboard-access;TRUE;LTL;69
+7520;LTL Single Leg;rate-card;TRUE;LTL;69
+7537;LTL Single Leg;priyanka_test;TRUE;LTL;69
+7619;LTL Single Leg;fls_st;TRUE;LTL;69
+7636;LTL Single Leg;nina-test-04042023;TRUE;LTL;69
+3385;FTL Single Leg;yojee-tester-company;TRUE;FTL;66
+3392;FTL Single Leg;yojee-tester-01;TRUE;FTL;66
+3404;FTL Single Leg;jackie_feature_config;TRUE;FTL;66
+3411;FTL Single Leg;geodis-my;TRUE;FTL;66
+5061;FTL Single Leg;maersk-kh;TRUE;FTL;66
+5066;FTL Single Leg;maersk-mm;TRUE;FTL;66
+5071;FTL Single Leg;testcraig;TRUE;FTL;66
+5094;FTL Single Leg;geodis-vn2;TRUE;FTL;66
+5099;FTL Single Leg;geodis-vn3;TRUE;FTL;66
+5104;FTL Single Leg;geodis-vn4;TRUE;FTL;66
+5111;FTL Single Leg;test_au_melbourne;TRUE;FTL;66
+5143;FTL Single Leg;airstep;TRUE;FTL;66
+5153;FTL Single Leg;ceva-my;TRUE;FTL;66
+5199;FTL Single Leg;yojeedemo;TRUE;FTL;66
+5216;FTL Single Leg;maersk-my-cl;TRUE;FTL;66
+7642;FTL Single Leg;qa-test;TRUE;FTL;66
+5257;FTL Single Leg;test-qa-upstream;TRUE;FTL;66
+5262;FTL Single Leg;vallen-sg;TRUE;FTL;66
+5272;FTL Single Leg;starter__package_sample;TRUE;FTL;66
+5280;FTL Single Leg;vivien;TRUE;FTL;66
+5285;FTL Single Leg;jasonyeoh-ph;TRUE;FTL;66
+5354;FTL Single Leg;geodis-vn;TRUE;FTL;66
+5359;FTL Single Leg;app;TRUE;FTL;66
+5416;FTL Single Leg;partnerpartner;TRUE;FTL;66
+5435;FTL Single Leg;qa-company-partner;TRUE;FTL;66
+5449;FTL Single Leg;globalandelitetestpackage;TRUE;FTL;66
+5529;FTL Single Leg;geetha-enterprise1;TRUE;FTL;66
+5539;FTL Single Leg;qa-enterprise1;TRUE;FTL;66
+5614;FTL Single Leg;qa-old-new;TRUE;FTL;66
+5864;FTL Single Leg;quick-cross-marketing;TRUE;FTL;66
+5874;FTL Single Leg;lgssolutions;TRUE;FTL;66
+5891;FTL Single Leg;centurypacific;TRUE;FTL;66
+5901;FTL Single Leg;saftest;TRUE;FTL;66
+5947;FTL Single Leg;cjcentury;TRUE;FTL;66
+6006;FTL Single Leg;ngaiheng;TRUE;FTL;66
+6027;FTL Single Leg;geodis_sg_trial;TRUE;FTL;66
+6088;FTL Single Leg;yojee_certification_whatfix;TRUE;FTL;66
+6152;FTL Single Leg;shopify-test;TRUE;FTL;66
+6175;FTL Single Leg;ilyatest;TRUE;FTL;66
+6210;FTL Single Leg;jasonyeoh;TRUE;FTL;66
+6238;FTL Single Leg;aveon;TRUE;FTL;66
+6265;FTL Single Leg;cateringproject;TRUE;FTL;66
+6357;FTL Single Leg;darrendemo;TRUE;FTL;66
+6375;FTL Single Leg;linges;TRUE;FTL;66
+6390;FTL Single Leg;vivien-jp;TRUE;FTL;66
+6397;FTL Single Leg;woocommerce-test;TRUE;FTL;66
+6492;FTL Single Leg;ceva_my_test;TRUE;FTL;66
+6636;FTL Single Leg;hawktest;TRUE;FTL;66
+6664;FTL Single Leg;tollgroup-sg;TRUE;FTL;66
+6737;FTL Single Leg;exl-test-company;TRUE;FTL;66
+7039;FTL Single Leg;cameron_test;TRUE;FTL;66
+7088;FTL Single Leg;jandjlogistics;TRUE;FTL;66
+7124;FTL Single Leg;jasonyeoh-id;TRUE;FTL;66
+7133;FTL Single Leg;handelgroup;TRUE;FTL;66
+7204;FTL Single Leg;nina-test-partner;TRUE;FTL;66
+7291;FTL Single Leg;nina-enterprise;TRUE;FTL;66
+7306;FTL Single Leg;translations-nina;TRUE;FTL;66
+7359;FTL Single Leg;durga_test;TRUE;FTL;66
+7420;FTL Single Leg;nina-test;TRUE;FTL;66
+7490;FTL Single Leg;test-partner-wednesday;TRUE;FTL;66
+7497;FTL Single Leg;test-357-empire;TRUE;FTL;66
+7504;FTL Single Leg;dashboard-access;TRUE;FTL;66
+7521;FTL Single Leg;rate-card;TRUE;FTL;66
+7538;FTL Single Leg;priyanka_test;TRUE;FTL;66
+7620;FTL Single Leg;fls_st;TRUE;FTL;66
+7637;FTL Single Leg;nina-test-04042023;TRUE;FTL;66
+3386;Container Multi-Leg;yojee-tester-company;TRUE;CNT;65
+3393;Container Multi-Leg;yojee-tester-01;TRUE;CNT;65
+3405;Container Multi-Leg;jackie_feature_config;TRUE;CNT;65
+3412;Container Multi-Leg;geodis-my;TRUE;CNT;65
+5062;Container Multi-Leg;maersk-kh;TRUE;CNT;65
+5067;Container Multi-Leg;maersk-mm;TRUE;CNT;65
+5072;Container Multi-Leg;testcraig;TRUE;CNT;65
+5095;Container Multi-Leg;geodis-vn2;TRUE;CNT;65
+5100;Container Multi-Leg;geodis-vn3;TRUE;CNT;65
+5105;Container Multi-Leg;geodis-vn4;TRUE;CNT;65
+5112;Container Multi-Leg;test_au_melbourne;TRUE;CNT;65
+5144;Container Multi-Leg;airstep;TRUE;CNT;65
+5154;Container Multi-Leg;ceva-my;TRUE;CNT;65
+5200;Container Multi-Leg;yojeedemo;TRUE;CNT;65
+5217;Container Multi-Leg;maersk-my-cl;TRUE;CNT;65
+7588;Container Multi-Leg;qa-test;TRUE;CNT;65
+5258;Container Multi-Leg;test-qa-upstream;TRUE;CNT;65
+5263;Container Multi-Leg;vallen-sg;TRUE;CNT;65
+5273;Container Multi-Leg;starter__package_sample;TRUE;CNT;65
+6628;Container Multi-Leg;vivien;TRUE;CNT;65
+6359;Container Multi-Leg;jasonyeoh-ph;TRUE;CNT;65
+5355;Container Multi-Leg;geodis-vn;TRUE;CNT;65
+5478;Container Multi-Leg;app;TRUE;CNT;65
+5417;Container Multi-Leg;partnerpartner;TRUE;CNT;65
+5436;Container Multi-Leg;qa-company-partner;TRUE;CNT;65
+5450;Container Multi-Leg;globalandelitetestpackage;TRUE;CNT;65
+5530;Container Multi-Leg;geetha-enterprise1;TRUE;CNT;65
+5540;Container Multi-Leg;qa-enterprise1;TRUE;CNT;65
+5615;Container Multi-Leg;qa-old-new;TRUE;CNT;65
+5865;Container Multi-Leg;quick-cross-marketing;TRUE;CNT;65
+5875;Container Multi-Leg;lgssolutions;TRUE;CNT;65
+5892;Container Multi-Leg;centurypacific;TRUE;CNT;65
+6294;Container Multi-Leg;saftest;TRUE;CNT;65
+5948;Container Multi-Leg;cjcentury;TRUE;CNT;65
+6007;Container Multi-Leg;ngaiheng;TRUE;CNT;65
+6075;Container Multi-Leg;geodis_sg_trial;TRUE;CNT;65
+6089;Container Multi-Leg;yojee_certification_whatfix;TRUE;CNT;65
+6153;Container Multi-Leg;shopify-test;TRUE;CNT;65
+6176;Container Multi-Leg;ilyatest;TRUE;CNT;65
+6211;Container Multi-Leg;jasonyeoh;TRUE;CNT;65
+6239;Container Multi-Leg;aveon;TRUE;CNT;65
+6266;Container Multi-Leg;cateringproject;TRUE;CNT;65
+6358;Container Multi-Leg;darrendemo;TRUE;CNT;65
+6376;Container Multi-Leg;linges;TRUE;CNT;65
+6391;Container Multi-Leg;vivien-jp;TRUE;CNT;65
+6398;Container Multi-Leg;woocommerce-test;TRUE;CNT;65
+6493;Container Multi-Leg;ceva_my_test;TRUE;CNT;65
+6637;Container Multi-Leg;hawktest;TRUE;CNT;65
+6665;Container Multi-Leg;tollgroup-sg;TRUE;CNT;65
+6738;Container Multi-Leg;exl-test-company;TRUE;CNT;65
+7110;Container Multi-Leg;cameron_test;TRUE;CNT;65
+7089;Container Multi-Leg;jandjlogistics;TRUE;CNT;65
+7125;Container Multi-Leg;jasonyeoh-id;TRUE;CNT;65
+7134;Container Multi-Leg;handelgroup;TRUE;CNT;65
+7205;Container Multi-Leg;nina-test-partner;TRUE;CNT;65
+7292;Container Multi-Leg;nina-enterprise;TRUE;CNT;65
+7307;Container Multi-Leg;translations-nina;TRUE;CNT;65
+7360;Container Multi-Leg;durga_test;TRUE;CNT;65
+7421;Container Multi-Leg;nina-test;TRUE;CNT;65
+7491;Container Multi-Leg;test-partner-wednesday;TRUE;CNT;65
+7498;Container Multi-Leg;test-357-empire;TRUE;CNT;65
+7505;Container Multi-Leg;dashboard-access;TRUE;CNT;65
+7522;Container Multi-Leg;rate-card;TRUE;CNT;65
+7621;Container Multi-Leg;fls_st;TRUE;CNT;65
+7638;Container Multi-Leg;nina-test-04042023;TRUE;CNT;65
+5439;Point To Point;tester;TRUE;LTL;20
+6368;Point To Point;harry-co;FALSE;LTL;20
+7647;Point To Point;testco123;FALSE;LTL;20
+5276;Point To Point;mltest;TRUE;LTL;20
+6188;Point To Point;knlastmile;FALSE;LTL;20
+6162;Point To Point;tntt-express;TRUE;LTL;20
+7792;Point To Point;jasonyeohtest;FALSE;LTL;20
+6596;Point To Point;azlena_test;TRUE;LTL;20
+5192;Point To Point;marcsamsontest;TRUE;LTL;20
+7745;Point To Point;qa-test;TRUE;LTL;20
+6136;Point To Point;mitsui-soko;TRUE;LTL;20
+7475;Point To Point;fls-group;TRUE;LTL;20
+7416;Point To Point;nina-test;TRUE;LTL;20
+7486;Point To Point;test-partner-wednesday;TRUE;LTL;20
+7493;Point To Point;test-357-empire;TRUE;LTL;20
+7500;Point To Point;dashboard-access;TRUE;LTL;20
+7517;Point To Point;rate-card;TRUE;LTL;20
+7534;Point To Point;priyanka_test;TRUE;LTL;20
+7616;Point To Point;fls_st;TRUE;LTL;20
+7633;Point To Point;nina-test-04042023;TRUE;LTL;20
+7686;Single Task;dietmonsta;TRUE;LTL;14
+6141;Single Task;testco123;TRUE;LTL;14
+5369;Single Task;azlena_test;TRUE;LTL;14
+6698;Single Task;ailing_test;TRUE;LTL;14
+6473;Single Task;maersk-ph;TRUE;LTL;14
+5191;Single Task;marcsamsontest;TRUE;LTL;14
+7418;Single Task;nina-test;TRUE;LTL;14
+7488;Single Task;test-partner-wednesday;TRUE;LTL;14
+7495;Single Task;test-357-empire;TRUE;LTL;14
+7502;Single Task;dashboard-access;TRUE;LTL;14
+7519;Single Task;rate-card;TRUE;LTL;14
+7536;Single Task;priyanka_test;TRUE;LTL;14
+7618;Single Task;fls_st;TRUE;LTL;14
+7635;Single Task;nina-test-04042023;TRUE;LTL;14
+6742;Single Leg - Domestic & Cargo;maersk-th;TRUE;CNT;4
+7381;Single Leg - 1PU 1 DO;geodis-road-management;TRUE;LTL;4
+6763;Single Leg - Domestic & Cargo;maersk-sg;TRUE;CNT;4
+6759;Single Leg - Domestic & Cargo;maersk-id;TRUE;CNT;4
+6729;Single Leg - Domestic & Cargo;maersk-ph;TRUE;CNT;4
+7396;Single Leg - 1PU 1 DO;geodis-th;TRUE;LTL;4
+7402;Single Leg - 1PU 1 DO;geodis-my;TRUE;LTL;4
+7403;Single Leg - 1PU 1 DO;geodis-vn;TRUE;LTL;4
+7428;Container Single Leg;testco123;FALSE;CNT;3
+6895;Multileg - Export (Leg1 Empty);maersk-sg;TRUE;CNT;3
+6902;Multileg - Export (Leg1 Empty);maersk-my;TRUE;CNT;3
+6092;Container Single Leg;maersk-vn;TRUE;CNT;3
+6909;Multileg - Export (Leg1 Empty);maersk-ph;TRUE;CNT;3
+5581;Container Single Leg;app;FALSE;CNT;3
+5468;TEST QA;tester;FALSE;FTL;2
+3276;test template;geetha-report-ongoing;TRUE;ltl;2
+7557;FCL Export;markconnell;TRUE;CNT;2
+6896;Multileg - Import (Leg2 Empty);maersk-sg;TRUE;CNT;2
+7003;Multileg - Import (Leg2 Empty);maersk-id;TRUE;CNT;2
+6609;Test QA;test-qa-upstream;TRUE;FTL;2
+6425;Test template;test-qa-upstream;TRUE;ltl;2
+7026;FCL Export;vivien;FALSE;CNT;2
+7765;MT-500;yojee;TRUE;FTL;1
+6077;SendSingapore;yojee;FALSE;LTL;1
+6427;kytest;tester;TRUE;LTL;1
+5452;Test Send;tester;FALSE;LTL;1
+5470;Test tasks;tester;TRUE;LTL;1
+7197;Thanh - Point To Point;tester;TRUE;LTL;1
+6817;Tung - Point To Point;tester;FALSE;LTL;1
+7725;DIETMONSTA YOJEE;dietmonsta;FALSE;LTL;1
+7723;YOJEE;dietmonsta;FALSE;LTL;1
+7761;Clarke Cargo FCL;harry-co;TRUE;CNT;1
+7764;Clarke Cargo P2P LCL;harry-co;FALSE;CNT;1
+7769;1 leg with empty leg 1;geetha-report-ongoing;TRUE;CNT;1
+7699;2 leg with empty leg 1.1;geetha-report-ongoing;TRUE;CNT;1
+7706;2 leg with empty leg 1.2;geetha-report-ongoing;TRUE;CNT;1
+7514;3 leg with empty leg 3;geetha-report-ongoing;TRUE;CNT;1
+7661;checking-template;geetha-report-ongoing;TRUE;LTL;1
+7738;Container-template;geetha-report-ongoing;TRUE;CNT;1
+6949;Copy - 1 leg template;geetha-report-ongoing;TRUE;LTL;1
+7718;Copy - 2 leg with empty leg 1;geetha-report-ongoing;TRUE;CNT;1
+6958;Copy - 2 leg with empty leg 2;geetha-report-ongoing;TRUE;CNT;1
+6952;Copy - 2 leg with none empty leg;geetha-report-ongoing;TRUE;CNT;1
+6964;Copy - 3 leg with empty leg 1;geetha-report-ongoing;TRUE;CNT;1
+7701;Copy - 3 leg with empty leg 2;geetha-report-ongoing;TRUE;CNT;1
+6961;Copy - 3 leg with none empty leg;geetha-report-ongoing;TRUE;CNT;1
+7714;Copy - QA full required fields;geetha-report-ongoing;TRUE;LTL;1
+6976;OD-Single Leg;geetha-report-ongoing;TRUE;LTL;1
+7510;Point To Point 2;geetha-report-ongoing;TRUE;LTL;1
+7221;QA full required fields;geetha-report-ongoing;TRUE;LTL;1
+6872;qa-template-one;geetha-report-ongoing;TRUE;LTL;1
+5235;Single Leg Custom;geetha-report-ongoing;TRUE;LTL;1
+7594;template 1 leg within empty leg;geetha-report-ongoing;TRUE;CNT;1
+6832;Template 3 legs with empty leg 1;geetha-report-ongoing;TRUE;CNT;1
+6846;template-using-new-label;geetha-report-ongoing;TRUE;LTL;1
+6911;Template with sender id;geetha-report-ongoing;TRUE;LTL;1
+6717;test-eta-opening-closing;geetha-report-ongoing;TRUE;LTL;1
+6723;test-template-with-uom;geetha-report-ongoing;TRUE;LTL;1
+5348;Ceva;testco123;FALSE;LTL;1
+7059;Container Movement Export;testco123;TRUE;CNT;1
+7648;Container Movement Import;testco123;TRUE;CNT;1
+7644;vessel;testco123;TRUE;CNT;1
+5493;Container Movement;mltest;TRUE;CNT;1
+5250;Sandstone;sandstone;FALSE;LTL;1
+7562;Copy - FCL Export Dept to Terminal;markconnell;TRUE;CNT;1
+7574;FCL Export Dept to Terminal;markconnell;TRUE;CNT;1
+7559;FCL Import;markconnell;TRUE;CNT;1
+7572;FTL Domestic;markconnell;TRUE;FTL;1
+7570;LTL Multi Leg;markconnell;TRUE;LTL;1
+7577;PUD Domestic;markconnell;TRUE;CNT;1
+5557;Bobtail Bookings;jasonyeohtest;FALSE;FTL;1
+7756;Export;jasonyeohtest;FALSE;CNT;1
+7067;Simple;jasonyeohtest;FALSE;LTL;1
+6884;Copy - Multileg (Test) - Import / Export;maersk-th;TRUE;CNT;1
+6888;Multileg  - Export (Leg1 Empty);maersk-th;TRUE;CNT;1
+7622;Multileg (Test) - Import / Export;maersk-th;TRUE;CNT;1
+7018;KVC Template;kvc;FALSE;LTL;1
+7458;Order Template;wsi;FALSE;LTL;1
+6898;Copy - Multileg - Import / Export;maersk-my;TRUE;CNT;1
+6769;Single Leg- Domestic & Cargo;maersk-my;TRUE;CNT;1
+7007;B2C;maersk-id;FALSE;LTL;1
+7006;Copy - Multileg - Import (Leg2 Empty);maersk-id;TRUE;CNT;1
+7624;Multileg - Import/Export;maersk-id;TRUE;CNT;1
+6773;Multileg;companynametest;TRUE;CNT;1
+6037;Point To Point (Containers);azlena_test;FALSE;CNT;1
+6093;Container Multileg;maersk-vn;TRUE;CNT;1
+6081;Fujifilm;ceva-sg;FALSE;LTL;1
+7187;123;michaeltest;TRUE;FTL;1
+7259;34234;michaeltest;TRUE;FTL;1
+7210;aas;michaeltest;TRUE;FTL;1
+7373;all-fields-edited-name-abc;michaeltest;TRUE;FTL;1
+7211;cxvvv;michaeltest;TRUE;FTL;1
+7232;default_template;michaeltest;TRUE;FTL;1
+7223;micheal_prod_default_template;michaeltest;TRUE;CNT;1
+7308;mt-320-demo;michaeltest;TRUE;CNT;1
+7598;mt-464;michaeltest;TRUE;CNT;1
+7405;new_t1;michaeltest;TRUE;CNT;1
+7438;one-leg;michaeltest;TRUE;FTL;1
+7157;t1;michaeltest;TRUE;FTL;1
+7508;Test Multiple Legs;michaeltest;TRUE;FTL;1
+7195;truly_default_template;michaeltest;TRUE;CNT;1
+7311;two-legs;michaeltest;TRUE;CNT;1
+7597;two-legs-second-empty;michaeltest;TRUE;CNT;1
+6905;Copy - Multileg - Import/Export;maersk-ph;TRUE;CNT;1
+6475;Copy - Multi Task;maersk-ph;TRUE;CNT;1
+5951;Copy - Single Task;maersk-ph;TRUE;CNT;1
+6014;Single Leg DMPI;maersk-ph;FALSE;CNT;1
+6060;Royce Template;royce;FALSE;FTL;1
+7729;1 MT - Allow Insert;qa-test;TRUE;CNT;1
+7731;2 Legs - 1 MT - Allow insert;qa-test;TRUE;CNT;1
+7584;Copy - VESSEL;qa-test;TRUE;CNT;1
+7739;Nina template;qa-test;TRUE;FTL;1
+7639;nina US 2 leg 1 empty;qa-test;TRUE;CNT;1
+7219;QA 2 leg 1 empty;qa-test;TRUE;CNT;1
+7014;2 legs;test-qa-upstream;TRUE;LTL;1
+7736;885 Empty Legs - Leg 1 Is Empty;test-qa-upstream;TRUE;CNT;1
+7754;full fields;test-qa-upstream;TRUE;LTL;1
+6824;OD Export Container;test-qa-upstream;TRUE;CNT;1
+6823;OD Import Container;test-qa-upstream;TRUE;CNT;1
+6933;OD Single Leg;test-qa-upstream;TRUE;FTL;1
+6830;QA-Container-Template;test-qa-upstream;TRUE;CNT;1
+5477;TEST APP;test-qa-upstream;FALSE;FTL;1
+5930;Test new version;test-qa-upstream;TRUE;FTL;1
+5544;Test QA full required fields;test-qa-upstream;TRUE;CNT;1
+6301;Test template UOM;test-qa-upstream;TRUE;FTL;1
+6166;Test template with UOM;test-qa-upstream;TRUE;FTL;1
+6795;TNN - QA UOM;test-qa-upstream;TRUE;LTL;1
+5294;Vallen SG Deliveries;vallen-sg;FALSE;LTL;1
+5412;Vallen SG multi-leg;vallen-sg;TRUE;CNT;1
+7028;Copy - FCL Export;vivien;FALSE;CNT;1
+6841;Nanhai Export LCL Corp Sender;vivien;TRUE;CNT;1
+7385;TDK LD;vivien;FALSE;FTL;1
+7225;nina 2 leg 1 empty;qa-company-partner;TRUE;CNT;1
+6350;Muji Home Delivery;mitsui-soko;FALSE;LTL;1
+5926;QCM;quick-cross-marketing;TRUE;CNT;1
+6653;MARKEM;aveon;TRUE;CNT;1
+6865;PDS Local;nhbs;FALSE;LTL;1
+6639;Woolworths Test Template;hawktest;FALSE;FTL;1
+7542;FCL EXPORT (Integrated);fls-group;FALSE;CNT;1
+7540;FCL IMPORT (Integrated);fls-group;FALSE;CNT;1
+6946;Copy - LTL Single Leg;mnx;FALSE;LTL;1
+6939;Multi-Leg;mnx;TRUE;FTL;1
+7044;SDL Manifest;mnx;TRUE;LTL;1
+7343;Copy - point_to_point;cameron_test;TRUE;LTL;1
+7390;FCL Multi Leg;cameron_test;TRUE;CNT;1
+7251;MNX;cameron_test;TRUE;FTL;1
+7213;M.SG Last Mile Template - Copy;cameron_test;TRUE;LTL;1
+7263;SG Maersk Last Mile Template;maersk-sg-2;TRUE;LTL;1
+7453;Export- Container Multi-Leg;durga_test;TRUE;CNT;1
+7578;Container Multi-Leg Export;priyanka_test;TRUE;CNT;1
+7794;MT-500-one;michaeltest;TRUE;LTL;0
+7767;mt-500-test;michaeltest;FALSE;LTL;0
